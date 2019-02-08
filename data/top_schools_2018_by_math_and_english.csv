@@ -1,0 +1,941 @@
+cds,schoolname,districtname,countyname,charter_flag,math_status,english_status,combined_status,status_level,ReportingYear
+19642121931880,Whitney (Gretchen) High,ABC Unified,Los Angeles,,155.3,164.2,319.5,5,2018
+01611760135244,Mission San Jose High,Fremont Unified,Alameda,,155.9,153.4,309.3,5,2018
+43694684334421,Lynbrook High,Fremont Union High,Santa Clara,,141.8,142.8,284.6,5,2018
+30664313030616,Oxford Academy,Anaheim Union High,Orange,,142.4,141.0,283.4,5,2018
+19647251995539,California Academy of Mathematics and Science,Long Beach Unified,Los Angeles,,128.4,145.5,273.9,5,2018
+19647330133736,"Millikan Science, Technology, Engineering and Math (STEM) Magnet",Los Angeles Unified,Los Angeles,,150.0,123.7,273.7,5,2018
+29663570112367,William & Marian Ghidotti High,Nevada Joint Union High,Nevada,,102.5,162.8,265.3,5,2018
+10621660114553,University High,Fresno Unified,Fresno,Y,97.4,166.2,263.6,5,2018
+43695344337762,Saratoga High,Los Gatos-Saratoga Joint Union High,Santa Clara,,125.1,131.9,257.0,5,2018
+07618040113118,Dougherty Valley High,San Ramon Valley Unified,Contra Costa,,116.9,137.7,254.6,5,2018
+37683386039846,La Jolla Elementary,San Diego Unified,San Diego,,118.1,135.1,253.2,5,2018
+19651361996321,Academy of the Canyons,William S. Hart Union High,Los Angeles,,87.3,161.2,248.5,5,2018
+43694684334462,Monta Vista High,Fremont Union High,Santa Clara,,126.6,121.0,247.6,5,2018
+43694840114496,Dr. TJ Owens Gilroy Early College Academy,Gilroy Unified,Santa Clara,,99.5,142.5,242.0,5,2018
+01611766056923,William Hopkins Junior High,Fremont Unified,Alameda,,133.4,108.5,241.9,5,2018
+43694196046882,Joaquin Miller Middle,Cupertino Union,Santa Clara,,136.9,103.1,240.0,5,2018
+43696414332904,Henry M. Gunn High,Palo Alto Unified,Santa Clara,,114.6,119.0,233.6,5,2018
+37683460106328,Canyon Crest Academy,San Dieguito Union High,San Diego,,108.0,125.3,233.3,5,2018
+19649641937754,San Marino High,San Marino Unified,Los Angeles,,118.1,109.6,227.7,5,2018
+19649646022529,Valentine Elementary,San Marino Unified,Los Angeles,,103.3,122.8,226.1,5,2018
+38684783833407,Lowell High,San Francisco Unified,San Francisco,,101.6,123.7,225.3,5,2018
+41690056115026,North Star Academy,Redwood City Elementary,San Mateo,,116.6,108.1,224.7,5,2018
+39685853930443,Middle College High,Lodi Unified,San Joaquin,,73.9,149.5,223.4,5,2018
+43694196047112,William Faria Elementary,Cupertino Union,Santa Clara,,110.8,110.4,221.2,5,2018
+43696826049092,Redwood Middle,Saratoga Union Elementary,Santa Clara,,123.1,97.7,220.8,5,2018
+43104390106534,Bullis Charter,Santa Clara County Office of Education,Santa Clara,Y,113.7,105.8,219.5,5,2018
+43694190108126,Sam H. Lawson Middle,Cupertino Union,Santa Clara,,126.1,90.9,217.0,5,2018
+01611766090534,Mission San Jose Elementary,Fremont Unified,Alameda,,105.2,109.9,215.1,5,2018
+43695186047401,Covington Elementary,Los Altos Elementary,Santa Clara,,104.0,109.7,213.7,5,2018
+43696826049068,Argonaut Elementary,Saratoga Union Elementary,Santa Clara,,111.8,101.8,213.6,5,2018
+39685856042063,Elkhorn,Lodi Unified,San Joaquin,,102.1,108.2,210.3,5,2018
+43694196047054,William Regnart Elementary,Cupertino Union,Santa Clara,,100.8,109.2,210.0,5,2018
+19647250132324,Eunice Sato Academy of Math & Science,Long Beach Unified,Los Angeles,,94.0,115.3,209.3,5,2018
+19647336020010,Wonderland Avenue Elementary,Los Angeles Unified,Los Angeles,,90.9,118.2,209.1,5,2018
+30739246029052,Jack L. Weaver Elementary,Los Alamitos Unified,Orange,,99.4,109.0,208.4,5,2018
+19647336016323,Canyon Charter Elementary,Los Angeles Unified,Los Angeles,Y,95.6,112.6,208.2,5,2018
+43694196046890,John F. Kennedy Middle,Cupertino Union,Santa Clara,,116.3,91.8,208.1,5,2018
+07618040108324,Windemere Ranch Middle,San Ramon Valley Unified,Contra Costa,,109.9,97.9,207.8,5,2018
+37680560114686,Ocean Air,Del Mar Union Elementary,San Diego,,99.4,108.1,207.5,5,2018
+37735516116578,Pacific Rim Elementary,Carlsbad Unified,San Diego,,93.0,114.2,207.2,5,2018
+01750930131615,J. M. Amador Elementary,Dublin Unified,Alameda,,94.9,109.0,203.9,5,2018
+19648326113047,Stevenson Ranch Elementary,Newhall,Los Angeles,,95.0,108.6,203.6,5,2018
+01611766066468,John Gomes Elementary,Fremont Unified,Alameda,,100.4,102.9,203.3,5,2018
+43696416048201,Herbert Hoover Elementary,Palo Alto Unified,Santa Clara,,105.4,96.7,202.1,5,2018
+19647336018964,Roscomare Road Elementary,Los Angeles Unified,Los Angeles,,92.4,109.2,201.6,5,2018
+43694196047005,Nelson S. Dilworth Elementary,Cupertino Union,Santa Clara,,104.0,96.8,200.8,5,2018
+30665143037496,Troy High,Fullerton Joint Union High,Orange,,85.7,114.9,200.6,5,2018
+43694196047039,Murdock-Portal Elementary,Cupertino Union,Santa Clara,,103.5,97.1,200.6,5,2018
+07616300731125,Campolindo High,Acalanes Union High,Contra Costa,,75.8,124.4,200.2,5,2018
+01611766000848,Warm Springs Elementary,Fremont Unified,Alameda,,101.1,98.5,199.6,5,2018
+49402460131961,Petaluma Accelerated Charter,Petaluma City Schools,Sonoma,Y,107.9,91.5,199.4,5,2018
+43695186047435,Georgina P. Blach Junior High,Los Altos Elementary,Santa Clara,,100.4,97.9,198.3,5,2018
+30665226028369,Ethan B. Allen Elementary,Garden Grove Unified,Orange,,86.6,111.2,197.8,5,2018
+30666476030035,Golden Elementary,Placentia-Yorba Linda Unified,Orange,,93.1,104.5,197.6,5,2018
+43696416060081,Jane Lathrop Stanford Middle,Palo Alto Unified,Santa Clara,,105.0,92.2,197.2,5,2018
+33672150131359,Riverside STEM Academy,Riverside Unified,Riverside,,95.9,101.0,196.9,5,2018
+43694196067185,Blue Hills Elementary,Cupertino Union,Santa Clara,,96.2,99.8,196.0,5,2018
+01611760130062,American High,Fremont Unified,Alameda,,77.2,118.2,195.4,5,2018
+43696666048755,Williams Elementary,San Jose Unified,Santa Clara,,83.0,111.8,194.8,5,2018
+43695186047385,Ardis G. Egan Junior High,Los Altos Elementary,Santa Clara,,107.0,87.2,194.2,5,2018
+09619116005581,Latrobe Elementary,Latrobe,El Dorado,,81.8,111.4,193.2,5,2018
+40688096043301,Teach Elementary,San Luis Coastal Unified,San Luis Obispo,,85.7,107.5,193.2,5,2018
+19647330102921,Harbor Teacher Preparation Academy,Los Angeles Unified,Los Angeles,,65.8,127.1,192.9,5,2018
+43694684331799,Cupertino High,Fremont Union High,Santa Clara,,91.1,101.5,192.6,5,2018
+01100170124172,Yu Ming Charter,Alameda County Office of Education,Alameda,Y,96.2,96.2,192.4,5,2018
+43696746048920,Millikin Elementary,Santa Clara Unified,Santa Clara,,91.1,100.9,192.0,5,2018
+30736506068647,Turtle Rock Elementary,Irvine Unified,Orange,,96.2,95.4,191.6,5,2018
+01611766090526,Joshua Chadbourne Elementary,Fremont Unified,Alameda,,99.2,92.2,191.4,5,2018
+19646596014658,Palm Crest Elementary,La Canada Unified,Los Angeles,,89.1,102.0,191.1,5,2018
+37683466117352,Carmel Valley Middle,San Dieguito Union High,San Diego,,100.5,90.4,190.9,5,2018
+01611190106401,Alameda Science and Technology Institute,Alameda Unified,Alameda,,87.0,103.5,190.5,5,2018
+19646591934611,La Canada High,La Canada Unified,Los Angeles,,92.2,97.2,189.4,5,2018
+56738745630132,Oak Park High,Oak Park Unified,Ventura,,68.1,119.6,187.7,5,2018
+19649646022495,Carver Elementary,San Marino Unified,Los Angeles,,80.1,106.2,186.3,5,2018
+01611766111330,Forest Park Elementary,Fremont Unified,Alameda,,91.3,94.4,185.7,5,2018
+43695916047971,Frank L. Huff Elementary,Mountain View Whisman,Santa Clara,,84.9,100.1,185.0,5,2018
+01612756002281,Beach Elementary,Piedmont City Unified,Alameda,,87.1,97.6,184.7,5,2018
+37680566038111,Del Mar Heights Elementary,Del Mar Union Elementary,San Diego,,83.5,101.2,184.7,5,2018
+30736506071179,Rancho San Joaquin Middle,Irvine Unified,Orange,,102.8,81.7,184.5,5,2018
+41690396044952,College Park Elementary,San Mateo-Foster City,San Mateo,,92.4,92.1,184.5,5,2018
+07618040132902,Bella Vista Elementary,San Ramon Valley Unified,Contra Costa,,90.8,93.5,184.3,5,2018
+43695186047468,Oak Avenue Elementary,Los Altos Elementary,Santa Clara,,87.8,96.5,184.3,5,2018
+43696416048326,Juana Briones Elementary,Palo Alto Unified,Santa Clara,,96.4,87.7,184.1,5,2018
+19648656021349,Silver Spur Elementary,Palos Verdes Peninsula Unified,Los Angeles,,82.9,101.0,183.9,5,2018
+01611760134270,Irvington High,Fremont Unified,Alameda,,78.8,104.9,183.7,5,2018
+37683386040232,Torrey Pines Elementary,San Diego Unified,San Diego,,87.9,95.7,183.6,5,2018
+37683460131649,Pacific Trails Middle,San Dieguito Union High,San Diego,,94.1,89.4,183.5,5,2018
+01612750136515,Piedmont High,Piedmont City Unified,Alameda,,72.1,110.8,182.9,5,2018
+07617706004444,Del Rey Elementary,Orinda Union Elementary,Contra Costa,,87.1,95.7,182.8,5,2018
+30665060102582,Robert C. Fisler Elementary,Fullerton Elementary,Orange,,83.3,98.6,181.9,5,2018
+43694196046759,L. P. Collins Elementary,Cupertino Union,Santa Clara,,89.9,91.9,181.8,5,2018
+43694196046718,C. B. Eaton Elementary,Cupertino Union,Santa Clara,,97.9,83.7,181.6,5,2018
+19646596014633,La Canada Elementary,La Canada Unified,Los Angeles,,89.8,91.7,181.5,5,2018
+01611766000749,Mission Valley Elementary,Fremont Unified,Alameda,,91.6,89.3,180.9,5,2018
+19753336020408,Opal Robinson Elementary,Manhattan Beach Unified,Los Angeles,,74.8,105.5,180.3,5,2018
+01611766106983,Fred E. Weibel Elementary,Fremont Unified,Alameda,,90.1,90.0,180.1,5,2018
+30664726066823,Los Coyotes Elementary,Centralia Elementary,Orange,,79.9,100.1,180.0,5,2018
+19642126085609,Leal (Frank C.) Elementary,ABC Unified,Los Angeles,,77.7,101.6,179.3,5,2018
+43693936046577,Forest Hill Elementary,Campbell Union,Santa Clara,Y,85.0,94.0,179.0,5,2018
+37682966109300,Deer Canyon Elementary,Poway Unified,San Diego,,82.6,95.7,178.3,5,2018
+19645681996131,Anderson W. Clark Magnet High,Glendale Unified,Los Angeles,,66.5,111.5,178.0,5,2018
+01611766000673,James Leitch Elementary,Fremont Unified,Alameda,,91.2,85.3,176.5,5,2018
+37683870129049,Solana Ranch Elementary,Solana Beach Elementary,San Diego,,81.4,95.1,176.5,5,2018
+43695916049464,Stevenson Elementary,Mountain View Whisman,Santa Clara,,85.4,91.0,176.4,5,2018
+42691616045348,Cold Spring Elementary,Cold Spring Elementary,Santa Barbara,,89.1,87.2,176.3,5,2018
+43694196046908,John Muir Elementary,Cupertino Union,Santa Clara,,95.4,80.9,176.3,5,2018
+43694356115851,Tom Matsumoto Elementary,Evergreen Elementary,Santa Clara,,82.4,93.6,176.0,5,2018
+37683386099071,Jerabek Elementary,San Diego Unified,San Diego,,85.9,89.6,175.5,5,2018
+43696666093082,Graystone Elementary,San Jose Unified,Santa Clara,,82.0,93.0,175.0,5,2018
+19649806022552,Franklin Elementary,Santa Monica-Malibu Unified,Los Angeles,,77.3,97.5,174.8,5,2018
+35674700121400,Accelerated Achievement Academy,Hollister,San Benito,,80.0,94.4,174.4,5,2018
+30736506098529,Santiago Hills Elementary,Irvine Unified,Orange,,82.1,92.0,174.1,5,2018
+43694196047047,R. I. Meyerholz Elementary,Cupertino Union,Santa Clara,,91.1,82.5,173.6,5,2018
+43696416068241,Lucille M. Nixon Elementary,Palo Alto Unified,Santa Clara,,80.6,92.8,173.4,5,2018
+01612756066492,Piedmont Middle,Piedmont City Unified,Alameda,,85.6,86.4,172.0,5,2018
+43696416048292,Duveneck Elementary,Palo Alto Unified,Santa Clara,,90.5,81.4,171.9,5,2018
+43694196046841,Garden Gate Elementary,Cupertino Union,Santa Clara,,91.6,80.1,171.7,5,2018
+01611766104723,Ardenwood Elementary,Fremont Unified,Alameda,,85.3,86.3,171.6,5,2018
+41690886045165,Woodside Elementary,Woodside Elementary,San Mateo,,80.5,90.7,171.2,5,2018
+43695186047500,Springer Elementary,Los Altos Elementary,Santa Clara,,87.4,83.7,171.1,5,2018
+41689086043673,North Hillsborough,Hillsborough City Elementary,San Mateo,,81.8,89.2,171.0,5,2018
+01611506113005,Jensen Ranch Elementary,Castro Valley Unified,Alameda,,80.7,90.0,170.7,5,2018
+37680566110696,Carmel Del Mar Elementary,Del Mar Union Elementary,San Diego,,80.0,90.5,170.5,5,2018
+01611766056907,John M. Horner Junior High,Fremont Unified,Alameda,,93.0,77.4,170.4,5,2018
+37683870105825,Solana Pacific Elementary,Solana Beach Elementary,San Diego,,79.0,91.0,170.0,5,2018
+41689086043681,South Hillsborough,Hillsborough City Elementary,San Mateo,,81.0,88.4,169.4,5,2018
+30736500127472,Jeffrey Trail Middle,Irvine Unified,Orange,,87.2,82.1,169.3,5,2018
+43696826049084,Foothill Elementary,Saratoga Union Elementary,Santa Clara,,89.8,79.0,168.8,5,2018
+41689816044275,Corte Madera,Portola Valley Elementary,San Mateo,,78.5,90.2,168.7,5,2018
+37683386112726,Dingeman Elementary,San Diego Unified,San Diego,,87.5,80.8,168.3,5,2018
+43696416118707,Ellen Fletcher Middle,Palo Alto Unified,Santa Clara,,88.1,80.1,168.2,5,2018
+43696414335782,Palo Alto High,Palo Alto Unified,Santa Clara,,96.0,72.0,168.0,5,2018
+43694196046767,Cupertino Middle,Cupertino Union,Santa Clara,,91.3,76.6,167.9,5,2018
+34674393430865,West Campus,Sacramento City Unified,Sacramento,,46.1,121.6,167.7,5,2018
+37680566117923,Sage Canyon,Del Mar Union Elementary,San Diego,,80.2,87.5,167.7,5,2018
+37735516109201,Aviara Oaks Elementary,Carlsbad Unified,San Diego,,72.0,95.6,167.6,5,2018
+41689816044283,Ormondale Elementary,Portola Valley Elementary,San Mateo,,85.8,81.8,167.6,5,2018
+07618046117451,Diablo Vista Middle,San Ramon Valley Unified,Contra Costa,,76.9,90.6,167.5,5,2018
+01751010130096,Foothill High,Pleasanton Unified,Alameda,,61.6,105.3,166.9,5,2018
+07617706066583,Wagner Ranch Elementary,Orinda Union Elementary,Contra Costa,,70.3,96.6,166.9,5,2018
+19647336100069,Balboa Gifted/High Ability Magnet Elementary,Los Angeles Unified,Los Angeles,,68.3,98.2,166.5,5,2018
+37683876112353,Carmel Creek Elementary,Solana Beach Elementary,San Diego,,83.2,83.2,166.4,5,2018
+30736436030696,Tustin Memorial Elementary,Tustin Unified,Orange,,74.8,91.3,166.1,5,2018
+41689576044127,Las Lomitas Elementary,Las Lomitas Elementary,San Mateo,,86.6,79.5,166.1,5,2018
+07617136003743,Happy Valley Elementary,Lafayette Elementary,Contra Costa,,79.7,86.0,165.7,5,2018
+37683386119135,Scripps Elementary,San Diego Unified,San Diego,,79.8,85.9,165.7,5,2018
+01750930125930,Eleanor Murray Fallon,Dublin Unified,Alameda,,84.9,80.7,165.6,5,2018
+49738824930384,Technology High,Cotati-Rohnert Park Unified,Sonoma,,59.5,105.8,165.3,5,2018
+10621666103832,Manchester Gate,Fresno Unified,Fresno,,77.5,87.7,165.2,5,2018
+19649646022503,Huntington Middle,San Marino Unified,Los Angeles,,82.6,82.2,164.8,5,2018
+30664986027999,Newland (William T.) Elementary,Fountain Valley Elementary,Orange,,77.6,87.1,164.7,5,2018
+30739246029078,Richard Henry Lee Elementary,Los Alamitos Unified,Orange,,71.7,92.9,164.6,5,2018
+19650296058556,South Pasadena Middle,South Pasadena Unified,Los Angeles,,81.0,83.3,164.3,5,2018
+30664806027858,Margaret Landell Elementary,Cypress Elementary,Orange,,72.7,91.6,164.3,5,2018
+37681146096911,Fallbrook Homeschool Academy,Fallbrook Union Elementary,San Diego,,68.1,96.0,164.1,5,2018
+41690216044788,White Oaks Elementary,San Carlos Elementary,San Mateo,Y,85.5,78.5,164.0,5,2018
+42692526045728,Montecito Union,Montecito Union Elementary,Santa Barbara,,70.1,93.8,163.9,5,2018
+07617706004451,Glorietta Elementary,Orinda Union Elementary,Contra Costa,,71.8,91.8,163.6,5,2018
+01612756002307,Wildwood Elementary,Piedmont City Unified,Alameda,,84.6,78.6,163.2,5,2018
+43694926047351,Lakeside Elementary,Lakeside Joint,Santa Clara,,74.2,89.0,163.2,5,2018
+43694196046940,Abraham Lincoln Elementary,Cupertino Union,Santa Clara,,83.2,79.6,162.8,5,2018
+10621170106419,James S. Fugman Elementary,Clovis Unified,Fresno,,73.4,89.3,162.7,5,2018
+19642126085617,Gonsalves (Joe A.) Elementary,ABC Unified,Los Angeles,,71.4,91.0,162.4,5,2018
+43694356110159,Chaboya Middle,Evergreen Elementary,Santa Clara,,87.1,75.3,162.4,5,2018
+21653916024442,Old Mill Elementary,Mill Valley Elementary,Marin,,79.4,82.7,162.1,5,2018
+30739246029045,Francis Hopkinson Elementary,Los Alamitos Unified,Orange,,79.3,82.6,161.9,5,2018
+31669283130184,Granite Bay High,Roseville Joint Union High,Placer,,61.7,100.1,161.8,5,2018
+41689656044150,Hillview Middle,Menlo Park City Elementary,San Mateo,,79.5,82.1,161.6,5,2018
+19642616011134,Baldwin Stocker Elementary,Arcadia Unified,Los Angeles,,79.3,82.2,161.5,5,2018
+43694356111942,Silver Oak Elementary,Evergreen Elementary,Santa Clara,,74.9,86.4,161.3,5,2018
+07617706004477,Orinda Intermediate,Orinda Union Elementary,Contra Costa,,77.7,83.5,161.2,5,2018
+30736506096192,Stonegate Elementary,Irvine Unified,Orange,,71.9,89.3,161.2,5,2018
+41689086043699,West Hillsborough,Hillsborough City Elementary,San Mateo,,82.9,78.3,161.2,5,2018
+30665556028922,Top of the World Elementary,Laguna Beach Unified,Orange,,74.0,87.1,161.1,5,2018
+43694196046981,Montclaire Elementary,Cupertino Union,Santa Clara,,78.9,82.1,161.0,5,2018
+19650296022776,Marengo Elementary,South Pasadena Unified,Los Angeles,,75.5,84.7,160.2,5,2018
+19647336019855,Welby Way Charter Elementary School And Gifted-High Ability Magnet,Los Angeles Unified,Los Angeles,Y,74.7,85.1,159.8,5,2018
+37683383730884,Scripps Ranch High,San Diego Unified,San Diego,,63.8,95.9,159.7,5,2018
+01612756002299,Havens Elementary,Piedmont City Unified,Alameda,,81.2,78.3,159.5,5,2018
+43694196047088,Stevens Creek Elementary,Cupertino Union,Santa Clara,,82.5,76.9,159.4,5,2018
+30736506094718,Vista Verde,Irvine Unified,Orange,,73.9,85.4,159.3,5,2018
+43696906049175,Cumberland Elementary,Sunnyvale,Santa Clara,,81.1,78.0,159.1,5,2018
+37683126039051,R. Roger Rowe Elementary,Rancho Santa Fe Elementary,San Diego,,74.0,85.0,159.0,5,2018
+41688820133157,Hoover Elementary,Burlingame Elementary,San Mateo,,77.2,81.8,159.0,5,2018
+07618040734368,Monte Vista High,San Ramon Valley Unified,Contra Costa,,50.2,108.5,158.7,5,2018
+34673300113621,Russell Ranch Elementary,Folsom-Cordova Unified,Sacramento,,72.3,86.2,158.5,5,2018
+43697086049357,Guadalupe Elementary,Union Elementary,Santa Clara,,79.7,78.6,158.3,5,2018
+10621170113555,Clovis North High,Clovis Unified,Fresno,,29.7,128.4,158.1,5,2018
+30736430121152,Orchard Hills,Tustin Unified,Orange,,73.9,84.2,158.1,5,2018
+40688096043194,Bellevue-Santa Fe Charter,San Luis Coastal Unified,San Luis Obispo,Y,68.7,89.4,158.1,5,2018
+10621176109920,Liberty Elementary,Clovis Unified,Fresno,,66.7,91.3,158.0,5,2018
+19647336019830,Warner Avenue Elementary,Los Angeles Unified,Los Angeles,,64.8,93.1,157.9,5,2018
+07617476003925,Joaquin Moraga Intermediate,Moraga Elementary,Contra Costa,,71.5,86.2,157.7,5,2018
+43694274330692,Evergreen Valley High,East Side Union High,Santa Clara,,63.0,94.0,157.0,5,2018
+30666476071146,Fairmont Elementary,Placentia-Yorba Linda Unified,Orange,,67.0,89.9,156.9,5,2018
+19642616061246,Foothills Middle,Arcadia Unified,Los Angeles,,85.7,71.1,156.8,5,2018
+07618046117485,Coyote Creek Elementary,San Ramon Valley Unified,Contra Costa,,77.7,78.9,156.6,5,2018
+01751016066500,Harvest Park Middle,Pleasanton Unified,Alameda,,83.3,73.0,156.3,5,2018
+01751016114318,Henry P. Mohr Elementary,Pleasanton Unified,Alameda,,81.2,75.1,156.3,5,2018
+38684780120386,Chinese Immersion School at DeAvila,San Francisco Unified,San Francisco,,75.3,80.7,156.0,5,2018
+37682960116475,Del Sur Elementary,Poway Unified,San Diego,,73.4,82.4,155.8,5,2018
+41690624130993,Carlmont High,Sequoia Union High,San Mateo,,57.6,98.1,155.7,5,2018
+43696094334116,Los Altos High,Mountain View-Los Altos Union High,Santa Clara,,60.9,94.8,155.7,5,2018
+01611766056915,Thornton Junior High,Fremont Unified,Alameda,,85.0,70.3,155.3,5,2018
+41689576044093,La Entrada Middle,Las Lomitas Elementary,San Mateo,,70.9,84.3,155.2,5,2018
+37680566088983,Del Mar Hills Elementary,Del Mar Union Elementary,San Diego,,67.4,87.3,154.7,5,2018
+43696666060099,Bret Harte Middle,San Jose Unified,Santa Clara,,85.6,68.9,154.5,5,2018
+37683386040208,Sunset View Elementary,San Diego Unified,San Diego,,76.2,77.8,154.0,5,2018
+07618040113589,Live Oak Elementary,San Ramon Valley Unified,Contra Costa,,72.0,81.9,153.9,5,2018
+19753336020416,Pacific Elementary,Manhattan Beach Unified,Los Angeles,,74.3,79.1,153.4,5,2018
+19753416022008,Alta Vista Elementary,Redondo Beach Unified,Los Angeles,,72.2,81.1,153.3,5,2018
+23656152330413,Redwood Academy of Ukiah,Ukiah Unified,Mendocino,Y,56.5,96.8,153.3,5,2018
+30666703030723,OCSA,Santa Ana Unified,Orange,Y,62.6,90.6,153.2,5,2018
+19101991995869,International Polytechnic High,Los Angeles County Office of Education,Los Angeles,,28.8,124.3,153.1,5,2018
+38684786041065,Peabody (George) Elementary,San Francisco Unified,San Francisco,,69.9,83.1,153.0,5,2018
+43695186047377,Almond Elementary,Los Altos Elementary,Santa Clara,,72.0,81.0,153.0,5,2018
+43695756047740,Country Lane Elementary,Moreland,Santa Clara,,68.9,84.1,153.0,5,2018
+07618040102566,Hidden Hills Elementary,San Ramon Valley Unified,Contra Costa,,77.4,75.4,152.8,5,2018
+41689086043707,Crocker Middle,Hillsborough City Elementary,San Mateo,,82.3,70.2,152.5,5,2018
+43696826049100,Saratoga Elementary,Saratoga Union Elementary,Santa Clara,,79.6,72.9,152.5,5,2018
+01750930114579,John Green Elementary,Dublin Unified,Alameda,,80.1,72.3,152.4,5,2018
+37683126070908,R. Roger Rowe Middle,Rancho Santa Fe Elementary,San Diego,,79.8,72.5,152.3,5,2018
+19648320100636,Pico Canyon Elementary,Newhall,Los Angeles,,69.2,83.0,152.2,5,2018
+19757131934553,Mark Keppel High,Alhambra Unified,Los Angeles,,70.1,82.0,152.1,5,2018
+37682960111187,Monterey Ridge Elementary,Poway Unified,San Diego,,79.3,72.5,151.8,5,2018
+01751016117600,Phoebe Apperson Hearst Elementary,Pleasanton Unified,Alameda,,78.1,73.5,151.6,5,2018
+30665970111666,Early College High,Newport-Mesa Unified,Orange,,54.8,96.8,151.6,5,2018
+43697086049415,Oster Elementary,Union Elementary,Santa Clara,,72.1,79.5,151.6,5,2018
+19645920100354,Hawthorne Math and Science Academy,Hawthorne,Los Angeles,Y,49.9,101.6,151.5,5,2018
+30664640124743,Oxford Preparatory Academy - South Orange County,Capistrano Unified,Orange,Y,71.4,80.1,151.5,5,2018
+01611766000798,Parkmont Elementary,Fremont Unified,Alameda,,69.3,81.6,150.9,5,2018
+43695186047427,Gardner Bullis Elementary,Los Altos Elementary,Santa Clara,,82.7,68.2,150.9,5,2018
+19647336016992,Fairburn Avenue Elementary,Los Angeles Unified,Los Angeles,,63.1,87.7,150.8,5,2018
+37683876070882,Solana Vista Elementary,Solana Beach Elementary,San Diego,,70.1,80.7,150.8,5,2018
+37683386039747,Holmes Elementary,San Diego Unified,San Diego,,71.6,79.1,150.7,5,2018
+30736503035102,University High,Irvine Unified,Orange,,72.3,78.2,150.5,5,2018
+43733876047625,John Sinnott Elementary,Milpitas Unified,Santa Clara,,76.6,73.8,150.4,5,2018
+37683876106140,Solana Highlands Elementary,Solana Beach Elementary,San Diego,,82.6,67.6,150.2,5,2018
+07617136003768,M. H. Stanley Middle,Lafayette Elementary,Contra Costa,,70.6,79.5,150.1,5,2018
+37682130121582,College Preparatory Middle - East County,Mountain Empire Unified,San Diego,Y,65.7,84.1,149.8,5,2018
+19647336018618,Overland Avenue Elementary,Los Angeles Unified,Los Angeles,,62.4,87.0,149.4,5,2018
+41688666043434,Central Elementary,Belmont-Redwood Shores Elementary,San Mateo,,69.7,79.7,149.4,5,2018
+41690474134557,Mills High,San Mateo Union High,San Mateo,,58.8,90.6,149.4,5,2018
+30736506102719,Brywood Elementary,Irvine Unified,Orange,,68.1,81.2,149.3,5,2018
+19642460111872,SOAR High (Students On Academic Rise),Antelope Valley Union High,Los Angeles,,41.3,107.9,149.2,5,2018
+30736506100879,Sierra Vista Middle,Irvine Unified,Orange,,75.3,73.6,148.9,5,2018
+01750936118038,James Dougherty Elementary,Dublin Unified,Alameda,,66.7,82.0,148.7,5,2018
+19650296022784,Monterey Hills Elementary,South Pasadena Unified,Los Angeles,,63.8,84.8,148.6,5,2018
+37683463730033,Torrey Pines High,San Dieguito Union High,San Diego,,52.8,95.6,148.4,5,2018
+30665066028088,Laguna Road Elementary,Fullerton Elementary,Orange,,67.3,81.0,148.3,5,2018
+19734601939149,Walnut High,Walnut Valley Unified,Los Angeles,,61.2,87.0,148.2,5,2018
+43696094334728,Mountain View High,Mountain View-Los Altos Union High,Santa Clara,,55.5,92.6,148.1,5,2018
+43696906049167,Cherry Chase Elementary,Sunnyvale,Santa Clara,,77.9,70.2,148.1,5,2018
+01751010130583,Amador Valley High,Pleasanton Unified,Alameda,,59.8,88.1,147.9,5,2018
+37682963731528,Westview High,Poway Unified,San Diego,,56.9,90.8,147.7,5,2018
+01751016002323,Fairlands Elementary,Pleasanton Unified,Alameda,,66.0,81.6,147.6,5,2018
+19647331932888,Downtown Business High,Los Angeles Unified,Los Angeles,,39.2,108.4,147.6,5,2018
+07618046108161,Golden View Elementary,San Ramon Valley Unified,Contra Costa,,68.3,78.9,147.2,5,2018
+19646596014666,Paradise Canyon Elementary,La Canada Unified,Los Angeles,,69.9,77.2,147.1,5,2018
+41688666114771,Sandpiper Elementary,Belmont-Redwood Shores Elementary,San Mateo,,75.4,71.7,147.1,5,2018
+34673140108720,Arnold Adreani Elementary,Elk Grove Unified,Sacramento,,62.3,84.7,147.0,5,2018
+19647336016521,Clover Avenue Elementary,Los Angeles Unified,Los Angeles,,69.0,77.8,146.8,5,2018
+43694196046957,Louis E. Stocklmeir Elementary,Cupertino Union,Santa Clara,,76.0,70.8,146.8,5,2018
+19645686013783,Monte Vista Elementary,Glendale Unified,Los Angeles,,68.7,77.9,146.6,5,2018
+31669446031298,Donner Trail Elementary,Tahoe-Truckee Unified,Placer,,61.4,85.1,146.5,5,2018
+38684786113997,Sunset Elementary,San Francisco Unified,San Francisco,,68.6,77.7,146.3,5,2018
+43696416048235,El Carmelo Elementary,Palo Alto Unified,Santa Clara,,82.1,64.2,146.3,5,2018
+43696416060065,Frank S. Greene Jr. Middle,Palo Alto Unified,Santa Clara,,79.8,66.3,146.1,5,2018
+44104474430252,Pacific Collegiate Charter,Santa Cruz County Office of Education,Santa Cruz,Y,57.7,88.4,146.1,5,2018
+37682966111314,Park Village Elementary,Poway Unified,San Diego,,70.2,75.7,145.9,5,2018
+43694196047104,West Valley Elementary,Cupertino Union,Santa Clara,,72.0,73.9,145.9,5,2018
+01611766000640,Harvey Green Elementary,Fremont Unified,Alameda,,68.4,77.2,145.6,5,2018
+41689656044176,Oak Knoll Elementary,Menlo Park City Elementary,San Mateo,,69.4,76.2,145.6,5,2018
+38684786102479,Lilienthal (Claire) Elementary,San Francisco Unified,San Francisco,,65.7,79.8,145.5,5,2018
+19647336018634,Palisades Charter Elementary,Los Angeles Unified,Los Angeles,Y,54.5,90.8,145.3,5,2018
+41688826043566,Lincoln Elementary,Burlingame Elementary,San Mateo,,67.4,77.7,145.1,5,2018
+43694684333316,Homestead High,Fremont Union High,Santa Clara,,65.8,79.2,145.0,5,2018
+30736503030657,Northwood High,Irvine Unified,Orange,,70.3,74.4,144.7,5,2018
+19648651995588,Palos Verdes Peninsula High,Palos Verdes Peninsula Unified,Los Angeles,,55.0,89.3,144.3,5,2018
+30736506098511,Lakeside Middle,Irvine Unified,Orange,,67.9,76.3,144.2,5,2018
+01751016117592,Thomas S. Hart Middle,Pleasanton Unified,Alameda,,68.4,75.6,144.0,5,2018
+34674396034227,Phoebe A. Hearst Elementary,Sacramento City Unified,Sacramento,,62.6,81.4,144.0,5,2018
+37683386039242,Bird Rock Elementary,San Diego Unified,San Diego,,69.0,74.9,143.9,5,2018
+30665066028005,Acacia Elementary,Fullerton Elementary,Orange,,61.7,81.6,143.3,5,2018
+37681893731072,River Valley Charter,Lakeside Union Elementary,San Diego,Y,51.9,91.4,143.3,5,2018
+30666136029540,Circle View Elementary,Ocean View,Orange,,67.3,75.9,143.2,5,2018
+01611196100374,Amelia Earhart Elementary,Alameda Unified,Alameda,,70.2,72.9,143.1,5,2018
+36677020102947,Day Creek Intermediate,Etiwanda Elementary,San Bernardino,,68.7,74.4,143.1,5,2018
+30665306116065,Huntington Seacliff Elementary,Huntington Beach City Elementary,Orange,,66.3,76.7,143.0,5,2018
+43694350102616,Carolyn A. Clark Elementary,Evergreen Elementary,Santa Clara,,67.5,75.4,142.9,5,2018
+19648656117584,Ridgecrest Intermediate,Palos Verdes Peninsula Unified,Los Angeles,,73.8,68.6,142.4,5,2018
+07617136003750,Lafayette Elementary,Lafayette Elementary,Contra Costa,,64.0,78.2,142.2,5,2018
+12626790111708,Union Street Charter,Arcata Elementary,Humboldt,Y,66.3,75.7,142.0,5,2018
+41690216044721,Arundel Elementary,San Carlos Elementary,San Mateo,Y,68.4,73.6,142.0,5,2018
+21750026024681,Brookside Elementary,Ross Valley Elementary,Marin,,63.2,78.6,141.8,5,2018
+34673300100404,Sandra J. Gallardo Elementary,Folsom-Cordova Unified,Sacramento,,61.9,79.9,141.8,5,2018
+07617476003909,Camino Pablo Elementary,Moraga Elementary,Contra Costa,,68.7,73.0,141.7,5,2018
+19642126066708,Carmenita Middle,ABC Unified,Los Angeles,,61.8,79.9,141.7,5,2018
+19646006014047,Hermosa View Elementary,Hermosa Beach City Elementary,Los Angeles,,74.0,67.7,141.7,5,2018
+30665976089460,Roy O. Andersen Elementary,Newport-Mesa Unified,Orange,,66.6,75.0,141.6,5,2018
+19642616057475,Richard Henry Dana Middle,Arcadia Unified,Los Angeles,,82.1,59.3,141.4,5,2018
+30666216029763,Crescent Elementary,Orange Unified,Orange,,59.5,81.9,141.4,5,2018
+41688666043483,Ralston Intermediate,Belmont-Redwood Shores Elementary,San Mateo,,67.8,73.6,141.4,5,2018
+01750930132704,Dublin High,Dublin Unified,Alameda,,52.2,89.1,141.3,5,2018
+37682960116764,Willow Grove Elementary,Poway Unified,San Diego,,65.4,75.8,141.2,5,2018
+19642616011191,Longley Way Elementary,Arcadia Unified,Los Angeles,,64.5,76.6,141.1,5,2018
+19734606106918,Quail Summit Elementary,Walnut Valley Unified,Los Angeles,,71.4,69.7,141.1,5,2018
+07618046100952,Bollinger Canyon Elementary,San Ramon Valley Unified,Contra Costa,,66.6,74.3,140.9,5,2018
+37682966117469,Creekside Elementary,Poway Unified,San Diego,,61.6,79.3,140.9,5,2018
+43693936046619,Marshall Lane Elementary,Campbell Union,Santa Clara,Y,70.1,70.8,140.9,5,2018
+19734606096358,Chaparral Middle,Walnut Valley Unified,Los Angeles,,69.2,71.6,140.8,5,2018
+34673306033252,Theodore Judah Elementary,Folsom-Cordova Unified,Sacramento,,62.9,77.9,140.8,5,2018
+56738746111496,Red Oak Elementary,Oak Park Unified,Ventura,,63.8,77.0,140.8,5,2018
+41688826043541,Franklin Elementary,Burlingame Elementary,San Mateo,,65.8,74.8,140.6,5,2018
+07617476003917,Donald L. Rheem Elementary,Moraga Elementary,Contra Costa,,63.0,77.5,140.5,5,2018
+07618040116541,Gale Ranch Middle,San Ramon Valley Unified,Contra Costa,,68.4,72.1,140.5,5,2018
+19642126068274,Cerritos Elementary,ABC Unified,Los Angeles,,56.7,83.5,140.2,5,2018
+43694196047096,Warren E. Hyde Middle,Cupertino Union,Santa Clara,,71.8,68.4,140.2,5,2018
+43695186047492,Santa Rita Elementary,Los Altos Elementary,Santa Clara,,68.9,71.3,140.2,5,2018
+37683386069116,Miramar Ranch Elementary,San Diego Unified,San Diego,,63.9,76.0,139.9,5,2018
+43696416048409,Walter Hays Elementary,Palo Alto Unified,Santa Clara,,72.3,67.5,139.8,5,2018
+43697086049316,Carlton Elementary,Union Elementary,Santa Clara,,65.3,74.5,139.8,5,2018
+01751196002711,Sunol Glen Elementary,Sunol Glen Unified,Alameda,,76.4,63.3,139.7,5,2018
+36676786111710,Country Springs Elementary,Chino Valley Unified,San Bernardino,,57.7,81.9,139.6,5,2018
+41690396044861,Bowditch Middle,San Mateo-Foster City,San Mateo,,69.5,70.0,139.5,5,2018
+19734606108336,Leonard G. Westhoff Elementary,Walnut Valley Unified,Los Angeles,,67.8,71.6,139.4,5,2018
+37683380129395,Elevate Elementary,San Diego Unified,San Diego,Y,50.9,88.5,139.4,5,2018
+19650296022768,Arroyo Vista Elementary,South Pasadena Unified,Los Angeles,,63.4,75.9,139.3,5,2018
+30736506096184,Deerfield Elementary,Irvine Unified,Orange,,67.3,71.9,139.2,5,2018
+57726786056303,Robert E. Willett Elementary,Davis Joint Unified,Yolo,,60.4,78.7,139.1,5,2018
+01750930123935,Harold William Kolb,Dublin Unified,Alameda,,66.8,72.2,139.0,5,2018
+07617706004501,Sleepy Hollow Elementary,Orinda Union Elementary,Contra Costa,,65.0,74.0,139.0,5,2018
+10621170108142,Woods (Harold L.) Elementary,Clovis Unified,Fresno,,61.5,77.3,138.8,5,2018
+31750856118517,Valley View Elementary,Rocklin Unified,Placer,,57.9,80.7,138.6,5,2018
+38684786041339,Lawton Alternative Elementary,San Francisco Unified,San Francisco,,70.1,68.5,138.6,5,2018
+30736503030467,Alternative Education-San Joaquin High,Irvine Unified,Orange,,45.9,92.3,138.2,5,2018
+41689656044168,Laurel Elementary,Menlo Park City Elementary,San Mateo,,64.9,73.3,138.2,5,2018
+37680566120596,Torrey Hills,Del Mar Union Elementary,San Diego,,62.7,75.3,138.0,5,2018
+43694356117956,James Franklin Smith Elementary,Evergreen Elementary,Santa Clara,,66.2,71.6,137.8,5,2018
+31668296109029,Oakhills Elementary,Eureka Union,Placer,,57.0,80.6,137.6,5,2018
+19753336020325,Aurelia Pennekamp Elementary,Manhattan Beach Unified,Los Angeles,,64.2,73.2,137.4,5,2018
+43695186047450,Loyola Elementary,Los Altos Elementary,Santa Clara,,68.6,68.7,137.3,5,2018
+19650291938455,South Pasadena Senior High,South Pasadena Unified,Los Angeles,,57.1,80.1,137.2,5,2018
+01751016089361,Vintage Hills Elementary,Pleasanton Unified,Alameda,,60.6,76.4,137.0,5,2018
+07618046113336,Iron Horse Middle,San Ramon Valley Unified,Contra Costa,,58.8,78.2,137.0,5,2018
+19642121930056,Cerritos High,ABC Unified,Los Angeles,,39.3,97.7,137.0,5,2018
+19647330126607,Porter Ranch Community,Los Angeles Unified,Los Angeles,,64.4,72.3,136.7,5,2018
+19734606100309,Maple Hill Elementary,Walnut Valley Unified,Los Angeles,,65.6,71.1,136.7,5,2018
+19647256015549,Naples Elementary,Long Beach Unified,Los Angeles,,63.4,73.2,136.6,5,2018
+30664640100917,Ladera Ranch Middle,Capistrano Unified,Orange,,60.9,75.7,136.6,5,2018
+43694196046775,D. J. Sedgwick Elementary,Cupertino Union,Santa Clara,,68.7,67.7,136.4,5,2018
+43694196046809,Dwight D. Eisenhower Elementary,Cupertino Union,Santa Clara,,68.6,67.7,136.3,5,2018
+07618040730051,California High,San Ramon Valley Unified,Contra Costa,,40.5,95.6,136.1,5,2018
+30739246029086,Rossmoor Elementary,Los Alamitos Unified,Orange,,62.4,73.4,135.8,5,2018
+43694356047138,Evergreen Elementary,Evergreen Elementary,Santa Clara,,71.5,64.0,135.5,5,2018
+39685850101956,Aspire Benjamin Holt College Preparatory Academy,Lodi Unified,San Joaquin,Y,32.7,102.6,135.3,5,2018
+37680560110114,Sycamore Ridge,Del Mar Union Elementary,San Diego,,61.0,74.2,135.2,5,2018
+19647330133603,"Girls Academic Leadership Academy, Dr. Michelle King School for Sci, Tech, Eng and Math",Los Angeles Unified,Los Angeles,,47.5,87.3,134.8,5,2018
+30736506108799,Westpark Elementary,Irvine Unified,Orange,,65.8,69.0,134.8,5,2018
+43733876047682,Thomas Russell Middle,Milpitas Unified,Santa Clara,,67.8,67.0,134.8,5,2018
+43104390113431,University Preparatory Academy Charter,Santa Clara County Office of Education,Santa Clara,Y,53.2,81.5,134.7,5,2018
+57726785732201,Davis Senior High,Davis Joint Unified,Yolo,,53.1,81.6,134.7,5,2018
+49707976051833,Liberty Elementary,Liberty Elementary,Sonoma,Y,68.4,66.2,134.6,5,2018
+19753416022099,Jefferson Elementary,Redondo Beach Unified,Los Angeles,,55.8,78.7,134.5,5,2018
+43696416048300,Greendell,Palo Alto Unified,Santa Clara,,79.1,55.4,134.5,5,2018
+41690396044895,Foster City Elementary,San Mateo-Foster City,San Mateo,,68.4,66.0,134.4,5,2018
+07618126005243,Walnut Heights Elementary,Walnut Creek Elementary,Contra Costa,,62.8,71.2,134.0,5,2018
+30665976118236,Newport Coast Elementary,Newport-Mesa Unified,Orange,,57.9,76.1,134.0,5,2018
+07618040119032,Creekside Elementary,San Ramon Valley Unified,Contra Costa,,61.1,72.8,133.9,5,2018
+27659872730414,Carmel High,Carmel Unified,Monterey,,43.0,90.8,133.8,5,2018
+19648320108027,Oak Hills Elementary,Newhall,Los Angeles,,60.1,73.6,133.7,5,2018
+07617966004808,Kensington Elementary,West Contra Costa Unified,Contra Costa,,55.8,77.8,133.6,5,2018
+19645351932763,El Segundo High,El Segundo Unified,Los Angeles,,45.5,88.1,133.6,5,2018
+30665226028740,Sarah McGarvin Intermediate,Garden Grove Unified,Orange,,62.6,71.0,133.6,5,2018
+19645506013585,Monterey Vista Elementary,Garvey Elementary,Los Angeles,,79.0,54.5,133.5,5,2018
+37682960108332,Oak Valley Middle,Poway Unified,San Diego,,60.4,73.1,133.5,5,2018
+21750026024731,Wade Thomas Elementary,Ross Valley Elementary,Marin,,61.3,72.1,133.4,5,2018
+19648656021307,Cornerstone at Pedregal Elementary,Palos Verdes Peninsula Unified,Los Angeles,,51.2,82.1,133.3,5,2018
+43696416048359,Palo Verde Elementary,Palo Alto Unified,Santa Clara,,76.1,56.9,133.0,5,2018
+37682960102822,Stone Ranch Elementary,Poway Unified,San Diego,,62.6,70.2,132.8,5,2018
+31668520120105,Creekside Charter,Newcastle Elementary,Placer,Y,63.8,68.3,132.1,5,2018
+07616300730283,Acalanes High,Acalanes Union High,Contra Costa,,44.7,87.2,131.9,5,2018
+19734606108344,South Pointe Middle,Walnut Valley Unified,Los Angeles,,70.4,61.5,131.9,5,2018
+37735516118137,Aviara Oaks Middle,Carlsbad Unified,San Diego,,63.6,68.3,131.9,5,2018
+30736503030285,Woodbridge High,Irvine Unified,Orange,,49.2,82.2,131.4,5,2018
+37680806117709,El Camino Creek Elementary,Encinitas Union Elementary,San Diego,,61.4,70.0,131.4,5,2018
+10621666103840,Edison Computech,Fresno Unified,Fresno,,56.7,74.6,131.3,5,2018
+21654256024632,Del Mar Middle,Reed Union Elementary,Marin,,62.3,69.0,131.3,5,2018
+41689656044135,Encinal Elementary,Menlo Park City Elementary,San Mateo,,63.8,67.5,131.3,5,2018
+37683383730751,Mt. Everest Academy,San Diego Unified,San Diego,,66.9,64.3,131.2,5,2018
+43696746048904,Laurelwood Elementary,Santa Clara Unified,Santa Clara,,61.9,69.3,131.2,5,2018
+19753336020390,Meadows Avenue Elementary,Manhattan Beach Unified,Los Angeles,,55.6,75.5,131.1,5,2018
+43696416048268,Fairmeadow Elementary,Palo Alto Unified,Santa Clara,,75.7,55.4,131.1,5,2018
+30736500129296,Portola Springs Elementary,Irvine Unified,Orange,,59.3,71.6,130.9,5,2018
+33670820120675,Western Center Academy,Hemet Unified,Riverside,Y,38.2,92.6,130.8,5,2018
+34673303433216,Folsom High,Folsom-Cordova Unified,Sacramento,,38.1,92.7,130.8,5,2018
+41688826043525,Burlingame Intermediate,Burlingame Elementary,San Mateo,,62.4,68.2,130.6,5,2018
+19650606022982,Anza Elementary,Torrance Unified,Los Angeles,,62.2,68.3,130.5,5,2018
+37681303732732,Helix High,Grossmont Union High,San Diego,Y,48.8,81.7,130.5,5,2018
+43697086049449,Union Middle,Union Elementary,Santa Clara,,63.0,67.5,130.5,5,2018
+19734456014278,Los Molinos Elementary,Hacienda la Puente Unified,Los Angeles,,54.3,76.1,130.4,5,2018
+36677026112122,Terra Vista Elementary,Etiwanda Elementary,San Bernardino,,55.2,75.1,130.3,5,2018
+19647330100677,High Tech LA,Los Angeles Unified,Los Angeles,Y,28.8,101.2,130.0,5,2018
+19753416022149,Tulita Elementary,Redondo Beach Unified,Los Angeles,,58.9,71.0,129.9,5,2018
+07618040109173,Quail Run Elementary,San Ramon Valley Unified,Contra Costa,,66.0,63.8,129.8,5,2018
+19647336016562,Colfax Charter Elementary,Los Angeles Unified,Los Angeles,Y,58.9,70.8,129.7,5,2018
+30665556028914,Thurston Middle,Laguna Beach Unified,Orange,,58.6,71.1,129.7,5,2018
+01751016002356,Walnut Grove Elementary,Pleasanton Unified,Alameda,,62.9,66.6,129.5,5,2018
+07618046005094,Green Valley Elementary,San Ramon Valley Unified,Contra Costa,,64.1,65.3,129.4,5,2018
+19649806022610,Roosevelt Elementary,Santa Monica-Malibu Unified,Los Angeles,,50.8,78.3,129.1,5,2018
+43695266047567,Raymond J. Fisher Middle,Los Gatos Union Elementary,Santa Clara,,66.2,62.7,128.9,5,2018
+19651360102475,West Ranch High,William S. Hart Union High,Los Angeles,,27.1,101.6,128.7,5,2018
+30665556028906,El Morro Elementary,Laguna Beach Unified,Orange,,48.8,79.9,128.7,5,2018
+37682966097208,Rolling Hills Elementary,Poway Unified,San Diego,,53.0,75.7,128.7,5,2018
+54105460119602,University Preparatory High,Tulare County Office of Education,Tulare,Y,35.8,92.9,128.7,5,2018
+19647336016935,Encino Charter Elementary,Los Angeles Unified,Los Angeles,Y,55.5,73.1,128.6,5,2018
+19753336020358,Grand View Elementary,Manhattan Beach Unified,Los Angeles,,54.9,73.6,128.5,5,2018
+30665306094643,Ralph E. Hawes Elementary,Huntington Beach City Elementary,Orange,,59.5,69.0,128.5,5,2018
+21653670129148,Cove,Larkspur-Corte Madera,Marin,,56.7,71.7,128.4,5,2018
+37683380120410,iHigh Virtual Academy,San Diego Unified,San Diego,,34.5,93.8,128.3,5,2018
+07618046005102,John Baldwin Elementary,San Ramon Valley Unified,Contra Costa,,60.1,68.1,128.2,5,2018
+01751016108971,Pleasanton Middle,Pleasanton Unified,Alameda,,59.4,68.7,128.1,5,2018
+37683386039440,Curie Elementary,San Diego Unified,San Diego,,59.8,68.3,128.1,5,2018
+01611276090146,Cornell Elementary,Albany City Unified,Alameda,,53.1,74.6,127.7,5,2018
+19648656021315,Point Vicente Elementary,Palos Verdes Peninsula Unified,Los Angeles,,52.5,75.2,127.7,5,2018
+01612596001911,Hillcrest Elementary,Oakland Unified,Alameda,,55.0,72.6,127.6,5,2018
+37680806106132,La Costa Heights Elementary,Encinitas Union Elementary,San Diego,,58.6,69.0,127.6,5,2018
+21654336024673,Ross Elementary,Ross Elementary,Marin,,56.8,70.7,127.5,5,2018
+37683386089015,Ericson Elementary,San Diego Unified,San Diego,,61.0,66.5,127.5,5,2018
+38684786041685,Ulloa Elementary,San Francisco Unified,San Francisco,,69.4,58.1,127.5,5,2018
+10621660121533,Morris E. Dailey Charter Elementary,Fresno Unified,Fresno,Y,48.2,79.2,127.4,5,2018
+19643296011795,Arma J. Shull Elementary,Bonita Unified,Los Angeles,,53.3,74.0,127.3,5,2018
+41690216112213,San Carlos Charter Learning Center,San Carlos Elementary,San Mateo,Y,45.8,81.5,127.3,5,2018
+37683876040455,Skyline Elementary,Solana Beach Elementary,San Diego,,50.6,76.6,127.2,5,2018
+07617136003792,Springhill Elementary,Lafayette Elementary,Contra Costa,,58.4,68.7,127.1,5,2018
+27659876026033,Carmel Middle,Carmel Unified,Monterey,,41.9,85.2,127.1,5,2018
+30665226028427,Patton Elementary,Garden Grove Unified,Orange,,55.6,71.4,127.0,5,2018
+37682960129056,Design 39 Campus,Poway Unified,San Diego,,52.8,74.2,127.0,5,2018
+37683386039739,Hearst Elementary,San Diego Unified,San Diego,,62.8,64.2,127.0,5,2018
+37683386115331,Marshall Middle,San Diego Unified,San Diego,,56.9,69.9,126.8,5,2018
+19644446012678,El Marino Elementary,Culver City Unified,Los Angeles,,63.7,63.0,126.7,5,2018
+30664640100891,Vista del Mar Middle,Capistrano Unified,Orange,,57.4,69.3,126.7,5,2018
+41690216044747,Central Middle,San Carlos Elementary,San Mateo,,62.3,64.4,126.7,5,2018
+43695916047955,Benjamin Bubb Elementary,Mountain View Whisman,Santa Clara,,57.1,69.5,126.6,5,2018
+19642616057467,First Avenue Middle,Arcadia Unified,Los Angeles,,60.4,65.8,126.2,5,2018
+43696416048243,Ohlone Elementary,Palo Alto Unified,Santa Clara,,64.6,61.6,126.2,5,2018
+19647336020044,Woodland Hills Elementary Charter For Enriched Studies,Los Angeles Unified,Los Angeles,Y,51.0,75.1,126.1,5,2018
+30736506115455,Canyon View Elementary,Irvine Unified,Orange,,60.5,65.6,126.1,5,2018
+37680566115620,Ashley Falls Elementary,Del Mar Union Elementary,San Diego,,63.7,62.3,126.0,5,2018
+30739246058853,Oak Middle,Los Alamitos Unified,Orange,,45.1,80.3,125.4,5,2018
+43697086049290,Alta Vista Elementary,Union Elementary,Santa Clara,,58.2,67.2,125.4,5,2018
+57726786056279,Pioneer Elementary,Davis Joint Unified,Yolo,,57.8,67.6,125.4,5,2018
+30736430102871,Arnold O. Beckman High,Tustin Unified,Orange,,37.9,87.4,125.3,5,2018
+19647336019871,West Hollywood Elementary,Los Angeles Unified,Los Angeles,,46.6,78.6,125.2,5,2018
+37680236116859,Arroyo Vista Charter,Chula Vista Elementary,San Diego,Y,46.8,78.3,125.1,5,2018
+21653916024475,Tamalpais Valley Elementary,Mill Valley Elementary,Marin,,54.8,70.2,125.0,5,2018
+19642126093447,Wittmann (Helen) Elementary,ABC Unified,Los Angeles,,43.0,81.9,124.9,5,2018
+10621176005854,Dry Creek Elementary,Clovis Unified,Fresno,,55.9,68.9,124.8,5,2018
+43693850133439,Steindorf STEAM K-8 Magnet,Cambrian,Santa Clara,,57.9,66.9,124.8,5,2018
+19647336016125,Broadway Elementary,Los Angeles Unified,Los Angeles,,62.1,62.6,124.7,5,2018
+19648656021356,Soleado Elementary,Palos Verdes Peninsula Unified,Los Angeles,,51.7,73.0,124.7,5,2018
+37683386039960,Marvin Elementary,San Diego Unified,San Diego,,54.9,69.8,124.7,5,2018
+01611766000681,Joseph Azevada Elementary,Fremont Unified,Alameda,,55.6,68.7,124.3,5,2018
+21653916024467,Strawberry Point Elementary,Mill Valley Elementary,Marin,,53.8,70.4,124.2,5,2018
+34673300113571,Vista del Lago High,Folsom-Cordova Unified,Sacramento,,34.4,89.8,124.2,5,2018
+30664986027916,Fulton (Harry C.) Middle,Fountain Valley Elementary,Orange,,53.6,70.5,124.1,5,2018
+19648656021372,Vista Grande Elementary,Palos Verdes Peninsula Unified,Los Angeles,,54.1,69.9,124.0,5,2018
+19734456066757,Wedgeworth Elementary,Hacienda la Puente Unified,Los Angeles,,56.2,67.8,124.0,5,2018
+37683876111181,Solana Santa Fe Elementary,Solana Beach Elementary,San Diego,,51.3,72.7,124.0,5,2018
+01751016001366,Donlon Elementary,Pleasanton Unified,Alameda,,56.8,67.1,123.9,5,2018
+56738746107528,Oak Hills Elementary,Oak Park Unified,Ventura,,52.7,71.0,123.7,5,2018
+56725460131698,Rancho Campana High,Oxnard Union High,Ventura,,36.7,86.8,123.5,5,2018
+43696666048706,Simonds Elementary,San Jose Unified,Santa Clara,,51.1,72.3,123.4,5,2018
+37683380132316,Jonas Salk Elementary,San Diego Unified,San Diego,,60.2,63.0,123.2,5,2018
+01611766000764,O. N. Hirsch Elementary,Fremont Unified,Alameda,,63.5,59.4,122.9,5,2018
+41688826043608,Washington Elementary,Burlingame Elementary,San Mateo,,60.0,62.9,122.9,5,2018
+43696746049035,Washington Open Elementary,Santa Clara Unified,Santa Clara,,52.7,70.1,122.8,5,2018
+56725460115105,Camarillo Academy of Progressive Education,Oxnard Union High,Ventura,Y,57.1,65.7,122.8,5,2018
+19649806022560,Grant Elementary,Santa Monica-Malibu Unified,Los Angeles,,52.5,70.2,122.7,5,2018
+19647336017701,Kenter Canyon Elementary Charter,Los Angeles Unified,Los Angeles,Y,52.8,69.7,122.5,5,2018
+37682966070841,Los Penasquitos Elementary,Poway Unified,San Diego,,46.5,75.4,121.9,5,2018
+19642616011167,Highland Oaks Elementary,Arcadia Unified,Los Angeles,,51.5,70.3,121.8,5,2018
+21653916085187,Mill Valley Middle,Mill Valley Elementary,Marin,,52.4,69.2,121.6,5,2018
+41690216044770,Tierra Linda Middle,San Carlos Elementary,San Mateo,Y,57.0,64.6,121.6,5,2018
+19753416022024,Beryl Heights Elementary,Redondo Beach Unified,Los Angeles,,53.3,68.2,121.5,5,2018
+41688666043459,Fox Elementary,Belmont-Redwood Shores Elementary,San Mateo,,62.7,58.8,121.5,5,2018
+41690216044754,Heather Elementary,San Carlos Elementary,San Mateo,Y,55.3,66.2,121.5,5,2018
+21653916024418,Edna Maguire Elementary,Mill Valley Elementary,Marin,,53.2,68.2,121.4,5,2018
+19643111930981,Beverly Hills High,Beverly Hills Unified,Los Angeles,,28.8,92.4,121.2,5,2018
+30739246058879,Sharon Christa McAuliffe Middle,Los Alamitos Unified,Orange,,49.6,71.6,121.2,5,2018
+19642616011175,Holly Avenue Elementary,Arcadia Unified,Los Angeles,,55.7,65.4,121.1,5,2018
+30664986094635,Courreges (Roch) Elementary,Fountain Valley Elementary,Orange,,62.0,59.1,121.1,5,2018
+37683386089049,Sandburg Elementary,San Diego Unified,San Diego,,60.8,60.3,121.1,5,2018
+10621176113583,Copper Hills Elementary,Clovis Unified,Fresno,,51.6,69.4,121.0,5,2018
+30736506100317,Eastshore Elementary,Irvine Unified,Orange,,53.7,67.3,121.0,5,2018
+30664640111914,Arroyo Vista Middle,Capistrano Unified,Orange,,49.5,71.3,120.8,5,2018
+43695344334371,Los Gatos High,Los Gatos-Saratoga Joint Union High,Santa Clara,,44.9,75.9,120.8,5,2018
+07618046005128,Montair Elementary,San Ramon Valley Unified,Contra Costa,,52.7,68.0,120.7,5,2018
+19753416022032,Birney Elementary,Redondo Beach Unified,Los Angeles,,58.6,62.0,120.6,5,2018
+21653916024459,Park Elementary,Mill Valley Elementary,Marin,,49.4,71.2,120.6,5,2018
+19734601932862,Diamond Bar High,Walnut Valley Unified,Los Angeles,,53.3,67.1,120.4,5,2018
+27659876026041,Carmel River Elementary,Carmel Unified,Monterey,,54.9,65.4,120.3,5,2018
+27661346026496,Robert Down Elementary,Pacific Grove Unified,Monterey,,50.0,70.3,120.3,5,2018
+07618046096036,Greenbrook Elementary,San Ramon Valley Unified,Contra Costa,,51.6,68.6,120.2,5,2018
+07618046005060,Alamo Elementary,San Ramon Valley Unified,Contra Costa,,55.5,64.6,120.1,5,2018
+37683383733508,La Jolla High,San Diego Unified,San Diego,,41.4,78.6,120.0,5,2018
+37683466061998,Earl Warren Middle,San Dieguito Union High,San Diego,,57.3,62.7,120.0,5,2018
+43694840123760,Gilroy Prep (a Navigator School),Gilroy Unified,Santa Clara,Y,41.7,78.1,119.8,5,2018
+37683386039184,Barnard Elementary,San Diego Unified,San Diego,,55.0,64.5,119.5,5,2018
+38684780123505,Mission Preparatory,San Francisco Unified,San Francisco,Y,59.3,60.2,119.5,5,2018
+41688660121111,Redwood Shores Elementary,Belmont-Redwood Shores Elementary,San Mateo,,61.0,58.4,119.4,5,2018
+31668296101778,Willma Cavitt Junior High,Eureka Union,Placer,,47.8,71.2,119.0,5,2018
+43733876047641,Marshall Pomeroy Elementary,Milpitas Unified,Santa Clara,,55.0,63.7,118.7,5,2018
+56105616055974,Meadows Arts and Technology Elementary,Ventura County Office of Education,Ventura,Y,52.7,66.0,118.7,5,2018
+56725536055990,Santa Rosa Technology Magnet,Pleasant Valley,Ventura,,48.1,70.5,118.6,5,2018
+01612590129635,Downtown Charter Academy,Oakland Unified,Alameda,Y,70.0,48.5,118.5,5,2018
+19647336017685,Ivanhoe Elementary,Los Angeles Unified,Los Angeles,,40.7,77.8,118.5,5,2018
+49708966117907,Austin Creek Elementary,Rincon Valley Union Elementary,Sonoma,,55.5,63.0,118.5,5,2018
+30665306095111,S. A. Moffett Elementary,Huntington Beach City Elementary,Orange,,55.3,63.0,118.3,5,2018
+30665483032158,Fountain Valley High,Huntington Beach Union High,Orange,,35.4,82.8,118.2,5,2018
+19643296110035,Oak Mesa Elementary,Bonita Unified,Los Angeles,,45.4,72.6,118.0,5,2018
+37735516037790,Magnolia Elementary,Carlsbad Unified,San Diego,,52.9,65.1,118.0,5,2018
+19645686013825,Valley View Elementary,Glendale Unified,Los Angeles,,50.8,67.1,117.9,5,2018
+30665976029409,Maude B. Davis Elementary,Newport-Mesa Unified,Orange,,53.9,64.0,117.9,5,2018
+01612596002109,Peralta Elementary,Oakland Unified,Alameda,,51.6,66.2,117.8,5,2018
+19651360102467,Rancho Pico Junior High,William S. Hart Union High,Los Angeles,,47.7,70.1,117.8,5,2018
+37683386040166,Silver Gate Elementary,San Diego Unified,San Diego,,58.0,59.5,117.5,5,2018
+30666216071120,Nohl Canyon Elementary,Orange Unified,Orange,,53.2,64.2,117.4,5,2018
+30664640100909,Ladera Ranch Elementary,Capistrano Unified,Orange,,50.3,66.8,117.1,5,2018
+42691956045447,Foothill Elementary,Goleta Union Elementary,Santa Barbara,,54.0,63.0,117.0,5,2018
+19642616011159,Camino Grove Elementary,Arcadia Unified,Los Angeles,,54.0,62.9,116.9,5,2018
+30665223033578,La Quinta High,Garden Grove Unified,Orange,,39.8,77.1,116.9,5,2018
+35674700127688,Hollister Prep,Hollister,San Benito,Y,41.1,75.7,116.8,5,2018
+37682966070858,Westwood Elementary,Poway Unified,San Diego,,51.7,65.0,116.7,5,2018
+30736430102889,Hicks Canyon Elementary,Tustin Unified,Orange,,60.4,56.1,116.5,5,2018
+37680806108534,Mission Estancia Elementary,Encinitas Union Elementary,San Diego,,51.5,64.9,116.4,5,2018
+43733876047609,Curtner Elementary,Milpitas Unified,Santa Clara,,53.9,62.5,116.4,5,2018
+19647256015473,Lowell Elementary,Long Beach Unified,Los Angeles,,42.6,73.7,116.3,5,2018
+36677026118467,John L. Golden Elementary,Etiwanda Elementary,San Bernardino,,49.1,67.2,116.3,5,2018
+43695006093058,C. T. English Middle,Loma Prieta Joint Union Elementary,Santa Clara,,52.1,64.2,116.3,5,2018
+37680076037766,Cardiff Elementary,Cardiff Elementary,San Diego,,63.4,52.8,116.2,5,2018
+10621176120083,Riverview Elementary,Clovis Unified,Fresno,,45.0,70.9,115.9,5,2018
+33670586109045,James Monroe Elementary,Desert Sands Unified,Riverside,,58.2,57.7,115.9,5,2018
+37735510127423,Sage Creek High,Carlsbad Unified,San Diego,,29.7,86.1,115.8,5,2018
+01612590114868,Oakland Charter High,Oakland Unified,Alameda,Y,26.9,88.8,115.7,5,2018
+19647256015317,Gant Elementary,Long Beach Unified,Los Angeles,,53.3,62.3,115.6,5,2018
+41690474130472,Burlingame High,San Mateo Union High,San Mateo,,28.6,86.9,115.5,5,2018
+30664643030574,Aliso Niguel High,Capistrano Unified,Orange,,30.3,85.1,115.4,5,2018
+30665306028864,John H. Eader Elementary,Huntington Beach City Elementary,Orange,,55.0,60.4,115.4,5,2018
+43695266047518,Blossom Hill Elementary,Los Gatos Union Elementary,Santa Clara,,53.4,61.9,115.3,5,2018
+01611196110779,Bay Farm,Alameda Unified,Alameda,,51.3,63.7,115.0,5,2018
+07617136003727,Burton Valley Elementary,Lafayette Elementary,Contra Costa,,55.1,59.8,114.9,5,2018
+30736506106850,Meadow Park Elementary,Irvine Unified,Orange,,46.0,68.9,114.9,5,2018
+43696416048193,Addison Elementary,Palo Alto Unified,Santa Clara,,55.1,59.8,114.9,5,2018
+30664986027924,Tamura (Hisamatsu) Elementary,Fountain Valley Elementary,Orange,,60.6,54.0,114.6,5,2018
+37681146038301,Mary Fay Pendleton Elementary,Fallbrook Union Elementary,San Diego,,47.2,67.3,114.5,5,2018
+09618380100024,Oak Meadow Elementary,Buckeye Union Elementary,El Dorado,,47.6,66.8,114.4,5,2018
+37683386040141,Sessions Elementary,San Diego Unified,San Diego,,53.4,61.0,114.4,5,2018
+19650606023238,Seaside Elementary,Torrance Unified,Los Angeles,,59.3,55.0,114.3,5,2018
+01611276095376,Marin Elementary,Albany City Unified,Alameda,,49.5,64.7,114.2,5,2018
+30666476095160,Linda Vista Elementary,Placentia-Yorba Linda Unified,Orange,,51.7,62.4,114.1,5,2018
+36678766059513,Richardson Prep Hi,San Bernardino City Unified,San Bernardino,,46.3,67.8,114.1,5,2018
+19648656021257,Palos Verdes Intermediate,Palos Verdes Peninsula Unified,Los Angeles,,60.1,53.7,113.8,5,2018
+30666136066849,Mesa View Middle,Ocean View,Orange,,51.3,62.5,113.8,5,2018
+30739246030514,J. H. McGaugh Elementary,Los Alamitos Unified,Orange,,54.9,58.9,113.8,5,2018
+01612596001648,Chabot Elementary,Oakland Unified,Alameda,,50.2,63.5,113.7,5,2018
+37682966085088,Painted Rock Elementary,Poway Unified,San Diego,,51.2,62.4,113.6,5,2018
+43697086049407,Noddin Elementary,Union Elementary,Santa Clara,,49.4,64.1,113.5,5,2018
+19648656021323,Rancho Vista Elementary,Palos Verdes Peninsula Unified,Los Angeles,,48.8,64.5,113.3,5,2018
+36676786108195,Rolling Ridge Elementary,Chino Valley Unified,San Bernardino,,41.9,71.4,113.3,5,2018
+37680806112445,Olivenhain Pioneer Elementary,Encinitas Union Elementary,San Diego,,53.2,60.0,113.2,5,2018
+19647256015309,Fremont Elementary,Long Beach Unified,Los Angeles,,44.8,68.0,112.8,5,2018
+37682966110878,Adobe Bluffs Elementary,Poway Unified,San Diego,,60.9,51.9,112.8,5,2018
+37683386059687,Muirlands Middle,San Diego Unified,San Diego,,41.0,71.7,112.7,5,2018
+56738746055677,Brookside Elementary,Oak Park Unified,Ventura,,51.3,61.4,112.7,5,2018
+07618046114326,Tassajara Hills Elementary,San Ramon Valley Unified,Contra Costa,,54.9,57.3,112.2,5,2018
+12628100108688,Academy of the Redwoods,Fortuna Union High,Humboldt,,43.2,69.0,112.2,5,2018
+38684786059828,Giannini (A.P.) Middle,San Francisco Unified,San Francisco,,50.6,61.6,112.2,5,2018
+19649806022636,Webster Elementary,Santa Monica-Malibu Unified,Los Angeles,,52.1,59.9,112.0,5,2018
+44754324430211,Scotts Valley High,Scotts Valley Unified,Santa Cruz,,33.5,78.5,112.0,5,2018
+19753416022081,Parras (Nick G.) Middle,Redondo Beach Unified,Los Angeles,,49.9,62.0,111.9,5,2018
+27661342733657,Pacific Grove High,Pacific Grove Unified,Monterey,,30.8,81.1,111.9,5,2018
+34673300129676,Riverview STEM Elementary,Folsom-Cordova Unified,Sacramento,,46.3,65.6,111.9,5,2018
+37737910111468,San Elijo Elementary,San Marcos Unified,San Diego,,42.1,69.8,111.9,5,2018
+43695756047765,Easterbrook Discovery,Moreland,Santa Clara,,50.5,61.2,111.7,5,2018
+56737596118582,Sycamore Canyon,Conejo Valley Unified,Ventura,,61.7,50.0,111.7,5,2018
+19648656116172,Dapplegray Elementary,Palos Verdes Peninsula Unified,Los Angeles,,45.2,66.4,111.6,5,2018
+38684786113245,Yu (Alice Fong) Elementary,San Francisco Unified,San Francisco,,48.8,62.8,111.6,5,2018
+01611196090054,Lincoln Middle,Alameda Unified,Alameda,,39.8,71.6,111.4,5,2018
+30666476097000,Woodsboro Elementary,Placentia-Yorba Linda Unified,Orange,,48.5,62.9,111.4,5,2018
+01751016001416,Lydiksen Elementary,Pleasanton Unified,Alameda,,51.0,60.3,111.3,5,2018
+30736506096200,Stone Creek Elementary,Irvine Unified,Orange,,49.2,62.0,111.2,5,2018
+36677026119622,Grapeland Elementary,Etiwanda Elementary,San Bernardino,,39.4,71.7,111.1,5,2018
+07618046110449,Sycamore Valley Elementary,San Ramon Valley Unified,Contra Costa,,57.5,53.5,111.0,5,2018
+19649806061659,Lincoln Middle,Santa Monica-Malibu Unified,Los Angeles,,40.6,70.4,111.0,5,2018
+31750853130150,Rocklin High,Rocklin Unified,Placer,,42.7,68.3,111.0,5,2018
+37680230105965,Salt Creek Elementary,Chula Vista Elementary,San Diego,,40.3,70.7,111.0,5,2018
+37683386039697,Green Elementary,San Diego Unified,San Diego,,48.5,62.5,111.0,5,2018
+21653186024160,Dixie Elementary,Dixie Elementary,Marin,,49.0,61.9,110.9,5,2018
+19648656021299,Montemalaga Elementary,Palos Verdes Peninsula Unified,Los Angeles,,42.3,68.5,110.8,5,2018
+30736436114482,Peters Canyon Elementary,Tustin Unified,Orange,,47.2,63.5,110.7,5,2018
+01611766089320,Brookvale Elementary,Fremont Unified,Alameda,,57.3,53.3,110.6,5,2018
+04614246003107,Sierra View Elementary,Chico Unified,Butte,,48.9,61.7,110.6,5,2018
+10621170113548,Granite Ridge Intermediate,Clovis Unified,Fresno,,44.3,66.1,110.4,5,2018
+30664646118947,Chaparral Elementary,Capistrano Unified,Orange,,45.4,64.8,110.2,5,2018
+07618120131714,Tice Creek,Walnut Creek Elementary,Contra Costa,,48.7,61.4,110.1,5,2018
+21654586024863,Sun Valley Elementary,San Rafael City Elementary,Marin,,48.7,61.4,110.1,5,2018
+43696666093074,Los Alamitos Elementary,San Jose Unified,Santa Clara,,41.7,68.4,110.1,5,2018
+30736500129155,Cypress Village Elementary,Irvine Unified,Orange,,47.7,62.3,110.0,5,2018
+37680316059570,Coronado Middle,Coronado Unified,San Diego,,40.6,69.3,109.9,5,2018
+19647336018048,Mar Vista Elementary,Los Angeles Unified,Los Angeles,,41.9,67.9,109.8,5,2018
+37683386040299,Benchley/Weinberger Elementary,San Diego Unified,San Diego,,53.3,56.5,109.8,5,2018
+43695266047542,Louise Van Meter Elementary,Los Gatos Union Elementary,Santa Clara,,47.3,62.5,109.8,5,2018
+43695266047526,Daves Avenue Elementary,Los Gatos Union Elementary,Santa Clara,,49.0,60.5,109.5,5,2018
+21654256024657,Reed Elementary,Reed Union Elementary,Marin,,64.7,44.6,109.3,5,2018
+41690396112650,Brewer Island Elementary,San Mateo-Foster City,San Mateo,,56.7,52.6,109.3,5,2018
+43693776046387,Northwood Elementary,Berryessa Union Elementary,Santa Clara,,53.9,55.4,109.3,5,2018
+07617546004063,Foothill Middle,Mt. Diablo Unified,Contra Costa,,39.1,70.1,109.2,5,2018
+19643116011753,El Rodeo Elementary,Beverly Hills Unified,Los Angeles,,37.2,72.0,109.2,5,2018
+19645356013429,Center Street Elementary,El Segundo Unified,Los Angeles,,42.3,66.9,109.2,5,2018
+37735516099352,Kelly Elementary,Carlsbad Unified,San Diego,,44.4,64.8,109.2,5,2018
+01611766089619,Warwick Elementary,Fremont Unified,Alameda,,48.1,61.0,109.1,5,2018
+10621660108555,Design Science Middle College High,Fresno Unified,Fresno,,31.9,77.1,109.0,5,2018
+19648326107171,Valencia Valley Elementary,Newhall,Los Angeles,,49.1,59.9,109.0,5,2018
+30736500133389,Beacon Park,Irvine Unified,Orange,,55.9,52.8,108.7,5,2018
+10621176108096,Valley Oak Elementary,Clovis Unified,Fresno,,45.9,62.7,108.6,5,2018
+30664646117642,Don Juan Avila Middle,Capistrano Unified,Orange,,50.2,58.3,108.5,5,2018
+56726526056154,Mound Elementary,Ventura Unified,Ventura,,43.5,64.6,108.1,5,2018
+19753336115307,Manhattan Beach Middle,Manhattan Beach Unified,Los Angeles,,37.2,70.8,108.0,5,2018
+21654256024616,Bel Aire Elementary,Reed Union Elementary,Marin,,53.0,55.0,108.0,5,2018
+30664496027478,Olinda Elementary,Brea-Olinda Unified,Orange,,58.5,49.4,107.9,5,2018
+19647336017529,Haynes Charter For Enriched Studies,Los Angeles Unified,Los Angeles,Y,41.7,66.0,107.7,5,2018
+30666216097364,Anaheim Hills Elementary,Orange Unified,Orange,,44.7,63.0,107.7,5,2018
+19734606023378,Evergreen Elementary,Walnut Valley Unified,Los Angeles,,47.2,60.4,107.6,5,2018
+37683466104749,Diegueno Middle,San Dieguito Union High,San Diego,,56.8,50.6,107.4,5,2018
+37683386089023,Hickman Elementary,San Diego Unified,San Diego,,45.0,62.3,107.3,5,2018
+43695836118541,Charter School of Morgan Hill,Morgan Hill Unified,Santa Clara,Y,46.4,60.9,107.3,5,2018
+10101080111682,Hume Lake Charter,Fresno County Office of Education,Fresno,Y,38.9,68.3,107.2,5,2018
+19650946023527,San Jose Charter Academy,West Covina Unified,Los Angeles,Y,46.0,61.2,107.2,5,2018
+43694274335907,Piedmont Hills High,East Side Union High,Santa Clara,,26.6,80.6,107.2,5,2018
+19649980119230,West Creek Academy,Saugus Union,Los Angeles,,43.2,63.8,107.0,5,2018
+30665226028211,A. J. Cook Elementary,Garden Grove Unified,Orange,,45.0,62.0,107.0,5,2018
+19648326095442,Meadows Elementary,Newhall,Los Angeles,,47.4,59.5,106.9,5,2018
+37682966111306,Mesa Verde Middle,Poway Unified,San Diego,,46.4,60.5,106.9,5,2018
+30736506095137,Venado Middle,Irvine Unified,Orange,,51.8,55.0,106.8,5,2018
+01611506090435,Proctor Elementary,Castro Valley Unified,Alameda,,50.1,56.6,106.7,5,2018
+30665066028013,Beechwood Elementary,Fullerton Elementary,Orange,,41.2,65.5,106.7,5,2018
+37683386107056,Challenger Middle,San Diego Unified,San Diego,,46.6,59.8,106.4,5,2018
+19647330122556,Citizens of the World Charter School Hollywood,Los Angeles Unified,Los Angeles,Y,52.7,53.6,106.3,5,2018
+30665976068399,Eastbluff Elementary,Newport-Mesa Unified,Orange,,48.2,57.8,106.0,5,2018
+33670330100982,Temescal Valley Elementary,Corona-Norco Unified,Riverside,,39.2,66.8,106.0,5,2018
+37682960118935,Del Norte High,Poway Unified,San Diego,,41.1,64.9,106.0,5,2018
+34674396034243,Crocker/Riverside Elementary,Sacramento City Unified,Sacramento,,48.0,57.9,105.9,5,2018
+42691956045504,Mountain View Elementary,Goleta Union Elementary,Santa Barbara,,48.4,57.5,105.9,5,2018
+01612596002216,Thornhill Elementary,Oakland Unified,Alameda,,42.0,63.8,105.8,5,2018
+07618046097166,Pine Valley Middle,San Ramon Valley Unified,Contra Costa,,46.5,59.3,105.8,5,2018
+19645686013809,Mountain Avenue Elementary,Glendale Unified,Los Angeles,,35.7,70.0,105.7,5,2018
+41688666043442,Cipriani Elementary,Belmont-Redwood Shores Elementary,San Mateo,,55.7,50.0,105.7,5,2018
+19647336094726,Community Magnet Charter Elementary,Los Angeles Unified,Los Angeles,Y,49.6,56.0,105.6,5,2018
+36676780100586,Michael G. Wickman Elementary,Chino Valley Unified,San Bernardino,,42.8,62.8,105.6,5,2018
+41689736044259,Spring Valley Elementary,Millbrae Elementary,San Mateo,,50.2,55.2,105.4,5,2018
+30736356085336,De Portola Elementary,Saddleback Valley Unified,Orange,,47.4,57.8,105.2,5,2018
+30665226028609,Loyal Barker Elementary,Garden Grove Unified,Orange,,40.2,64.9,105.1,5,2018
+37683386099055,Doyle Elementary,San Diego Unified,San Diego,,51.8,53.3,105.1,5,2018
+19647256015580,Prisk Elementary,Long Beach Unified,Los Angeles,,39.7,65.1,104.8,5,2018
+21653346068308,Adaline E. Kent Middle,Kentfield Elementary,Marin,,38.6,66.2,104.8,5,2018
+43694196046932,Christa McAuliffe Elementary,Cupertino Union,Santa Clara,,53.2,51.6,104.8,5,2018
+30664640108704,Oso Grande Elementary,Capistrano Unified,Orange,,47.9,56.8,104.7,5,2018
+30736356106926,Trabuco Mesa Elementary,Saddleback Valley Unified,Orange,,39.1,65.5,104.6,5,2018
+10621096005839,Clay Elementary,Clay Joint Elementary,Fresno,,43.4,61.1,104.5,5,2018
+19753416022107,Lincoln Elementary,Redondo Beach Unified,Los Angeles,,46.0,58.5,104.5,5,2018
+31668296031108,Greenhills Elementary,Eureka Union,Placer,,49.3,55.2,104.5,5,2018
+19734606023394,Vejar Elementary,Walnut Valley Unified,Los Angeles,,60.0,44.3,104.3,5,2018
+30666476109102,Bryant Ranch Elementary,Placentia-Yorba Linda Unified,Orange,,39.3,65.0,104.3,5,2018
+19646006095434,Hermosa Valley Elementary,Hermosa Beach City Elementary,Los Angeles,,44.5,59.7,104.2,5,2018
+36679340110064,University Preparatory,Victor Valley Union High,San Bernardino,,34.8,69.4,104.2,5,2018
+19647256015408,Kettering Elementary,Long Beach Unified,Los Angeles,,41.1,62.9,104.0,5,2018
+09619780108258,Lakeview Elementary,Rescue Union Elementary,El Dorado,,48.1,55.8,103.9,5,2018
+36678436036511,Kimberly Elementary,Redlands Unified,San Bernardino,,38.0,65.8,103.8,5,2018
+30736506100838,Alderwood Elementary,Irvine Unified,Orange,,45.2,58.5,103.7,5,2018
+38684786041438,Miraloma Elementary,San Francisco Unified,San Francisco,,42.5,61.2,103.7,5,2018
+37683380123778,Old Town Academy K-8 Charter,San Diego Unified,San Diego,Y,46.1,57.5,103.6,5,2018
+01611270130450,Albany High,Albany City Unified,Alameda,,42.5,60.9,103.4,5,2018
+40688096043244,Los Ranchos Elementary,San Luis Coastal Unified,San Luis Obispo,,45.1,58.2,103.3,5,2018
+19734606023402,Walnut Elementary,Walnut Valley Unified,Los Angeles,,51.0,51.9,102.9,5,2018
+30664646114524,Wagon Wheel Elementary,Capistrano Unified,Orange,,42.7,60.2,102.9,5,2018
+19644856089148,Leffingwell Elementary,East Whittier City Elementary,Los Angeles,,39.7,63.1,102.8,5,2018
+30736506115786,Plaza Vista,Irvine Unified,Orange,,56.8,46.0,102.8,5,2018
+42691386045280,Jonata Middle,Buellton Union Elementary,Santa Barbara,,38.2,64.5,102.7,5,2018
+19644446012694,Farragut Elementary,Culver City Unified,Los Angeles,,44.7,57.8,102.5,5,2018
+43697086049332,Dartmouth Middle,Union Elementary,Santa Clara,,44.8,57.7,102.5,5,2018
+39686500108035,Park View Elementary,Ripon Unified,San Joaquin,,44.9,57.5,102.4,5,2018
+07617476003933,Los Perales Elementary,Moraga Elementary,Contra Costa,,43.2,59.0,102.2,5,2018
+34673306112916,Natoma Station Elementary,Folsom-Cordova Unified,Sacramento,,47.3,54.9,102.2,5,2018
+39767600114645,Bethany Elementary,Lammersville Joint Unified,San Joaquin,,48.6,53.6,102.2,5,2018
+43696666048474,Booksin Elementary,San Jose Unified,Santa Clara,,39.6,62.5,102.1,5,2018
+31750856118392,Rocklin Academy,Rocklin Unified,Placer,Y,45.1,56.9,102.0,5,2018
+19646836099030,Willow Elementary,Las Virgenes Unified,Los Angeles,,45.3,56.5,101.8,5,2018
+19647336019939,Westwood Charter Elementary,Los Angeles Unified,Los Angeles,Y,41.4,60.4,101.8,5,2018
+30664496027460,Mariposa Elementary,Brea-Olinda Unified,Orange,,40.0,61.7,101.7,5,2018
+38684786041305,Lafayette Elementary,San Francisco Unified,San Francisco,,44.6,56.9,101.5,5,2018
+56737590119396,Environmental Academy of Research Technology and Earth Sciences,Conejo Valley Unified,Ventura,,42.8,58.7,101.5,5,2018
+54722560101857,Oak Grove Elementary,Visalia Unified,Tulare,,37.8,63.5,101.3,5,2018
+21653346024319,Anthony G. Bacich Elementary,Kentfield Elementary,Marin,,59.2,42.0,101.2,5,2018
+41690210133645,Arroyo,San Carlos Elementary,San Mateo,,42.4,58.8,101.2,5,2018
+30664986094627,Masuda (Kazuo) Middle,Fountain Valley Elementary,Orange,,51.6,49.5,101.1,5,2018
+37680806099402,Flora Vista Elementary,Encinitas Union Elementary,San Diego,,50.0,51.1,101.1,5,2018
+30664726027692,George B. Miller Elementary,Centralia Elementary,Orange,,42.7,58.3,101.0,5,2018
+43104390111880,Discovery Charter,Santa Clara County Office of Education,Santa Clara,Y,53.7,47.3,101.0,5,2018
+19650606023279,Towers Elementary,Torrance Unified,Los Angeles,,51.7,49.2,100.9,5,2018
+38769270132183,The New School of San Francisco,SBE - The New School of San Francisco,San Francisco,Y,40.5,60.4,100.9,5,2018
+19647336016539,Coeur D'Alene Avenue Elementary,Los Angeles Unified,Los Angeles,,41.2,59.6,100.8,5,2018
+43693776067177,Ruskin Elementary,Berryessa Union Elementary,Santa Clara,,47.2,53.6,100.8,5,2018
+19647336015986,Beckford Charter for Enriched Studies,Los Angeles Unified,Los Angeles,Y,43.1,57.6,100.7,5,2018
+38684786113252,Chin (John Yehall) Elementary,San Francisco Unified,San Francisco,,54.2,46.3,100.5,5,2018
+19647336016356,Carpenter Community Charter,Los Angeles Unified,Los Angeles,Y,40.5,59.9,100.4,5,2018
+27659870118687,Carmel Child Development Center,Carmel Unified,Monterey,,50.5,49.9,100.4,5,2018
+19642616011183,Hugo Reid Elementary,Arcadia Unified,Los Angeles,,44.5,55.8,100.3,5,2018
+19647256015242,Carver Elementary,Long Beach Unified,Los Angeles,,35.2,65.0,100.2,5,2018
+30664646117725,Las Flores Middle,Capistrano Unified,Orange,,39.9,60.3,100.2,5,2018
+09618386110456,Silva Valley Elementary,Buckeye Union Elementary,El Dorado,,44.9,55.2,100.1,5,2018
+47764554733309,Etna Union High,Scott Valley Unified,Siskiyou,,40.1,60.0,100.1,5,2018
+37737916116206,Carrillo Elementary,San Marcos Unified,San Diego,,44.7,55.3,100.0,5,2018
+30736506097042,Bonita Canyon Elementary,Irvine Unified,Orange,,35.5,64.3,99.8,5,2018
+07618046097158,Montevideo Elementary,San Ramon Valley Unified,Contra Costa,,47.2,52.5,99.7,5,2018
+41690706045108,Monte Verde Elementary,South San Francisco Unified,San Mateo,,52.7,46.9,99.6,5,2018
+37103716119119,Literacy First Charter,San Diego County Office of Education,San Diego,Y,40.9,58.6,99.5,5,2018
+43695756047807,Gussie M. Baker Elementary,Moreland,Santa Clara,,48.2,51.3,99.5,5,2018
+56738746098255,Medea Creek Middle,Oak Park Unified,Ventura,,44.3,55.2,99.5,5,2018
+21654822132587,Redwood High,Tamalpais Union High,Marin,,39.0,60.4,99.4,5,2018
+19647336017768,Lanai Road Elementary,Los Angeles Unified,Los Angeles,,45.9,53.3,99.2,5,2018
+19734606095467,Cyrus J. Morris Elementary,Walnut Valley Unified,Los Angeles,,49.0,50.2,99.2,5,2018
+57726786056261,North Davis Elementary,Davis Joint Unified,Yolo,,46.6,52.6,99.2,5,2018
+31750850121244,Sunset Ranch Elementary,Rocklin Unified,Placer,,48.8,50.3,99.1,5,2018
+42691466045322,Summerland Elementary,Carpinteria Unified,Santa Barbara,,48.4,50.7,99.1,5,2018
+10624146117865,Quail Lake Environmental Charter,Sanger Unified,Fresno,Y,45.0,54.0,99.0,5,2018
+34673140108753,Pleasant Grove High,Elk Grove Unified,Sacramento,,38.3,60.6,98.9,5,2018
+01611766000756,Niles Elementary,Fremont Unified,Alameda,,47.7,51.1,98.8,5,2018
+07618126005169,Buena Vista Elementary,Walnut Creek Elementary,Contra Costa,,51.4,47.4,98.8,5,2018
+19647336019657,Valley View Elementary,Los Angeles Unified,Los Angeles,,38.9,59.9,98.8,5,2018
+34673306118574,Empire Oaks Elementary,Folsom-Cordova Unified,Sacramento,,41.0,57.8,98.8,5,2018
+38684786059901,Roosevelt Middle,San Francisco Unified,San Francisco,,43.3,55.5,98.8,5,2018
+19734606023386,Suzanne Middle,Walnut Valley Unified,Los Angeles,,47.5,51.2,98.7,5,2018
+19101996116883,Odyssey Charter,Los Angeles County Office of Education,Los Angeles,Y,37.3,61.3,98.6,5,2018
+37683386040034,Ocean Beach Elementary,San Diego Unified,San Diego,,43.1,55.5,98.6,5,2018
+30664646089452,Castille Elementary,Capistrano Unified,Orange,,35.9,62.6,98.5,5,2018
+30736436030548,Arroyo Elementary,Tustin Unified,Orange,,50.9,47.5,98.4,5,2018
+19650601938356,South High,Torrance Unified,Los Angeles,,41.8,56.4,98.2,5,2018
+30103060133785,Oxford Preparatory Academy - Saddleback Valley,Orange County Department of Education,Orange,Y,39.4,58.7,98.1,5,2018
+07618046005144,Stone Valley Middle,San Ramon Valley Unified,Contra Costa,,44.3,53.7,98.0,5,2018
+30666476030001,Charles Wagner Elementary,Placentia-Yorba Linda Unified,Orange,,45.1,52.9,98.0,5,2018
+10621176112742,Maple Creek Elementary,Clovis Unified,Fresno,,35.4,62.4,97.8,5,2018
+09618386112361,Rolling Hills Middle,Buckeye Union Elementary,El Dorado,,43.0,54.7,97.7,5,2018
+30736356110936,Portola Hills Elementary,Saddleback Valley Unified,Orange,,40.3,57.2,97.5,5,2018
+37735510113498,Poinsettia Elementary,Carlsbad Unified,San Diego,,36.9,60.6,97.5,5,2018
+19650606023295,Walteria Elementary,Torrance Unified,Los Angeles,,48.8,48.6,97.4,5,2018
+31669100116624,Junction Elementary,Roseville City Elementary,Placer,,41.1,56.3,97.4,5,2018
+19647330117903,KIPP Raices Academy,Los Angeles Unified,Los Angeles,Y,53.0,44.3,97.3,5,2018
+41688826043590,Roosevelt Elementary,Burlingame Elementary,San Mateo,,47.2,50.1,97.3,5,2018
+43696664333522,Leland High,San Jose Unified,Santa Clara,,44.8,52.5,97.3,5,2018
+30666476029995,Brookhaven Elementary,Placentia-Yorba Linda Unified,Orange,,41.7,55.4,97.1,5,2018
+36675956098503,Floyd M. Stork Elementary,Alta Loma Elementary,San Bernardino,,38.4,58.7,97.1,5,2018
+36677026112114,Carleton P. Lightfoot Elementary,Etiwanda Elementary,San Bernardino,,36.2,60.9,97.1,5,2018
+09619786103527,Marina Village Middle,Rescue Union Elementary,El Dorado,,44.6,52.4,97.0,5,2018
+49707146051742,Gravenstein Elementary,Gravenstein Union Elementary,Sonoma,Y,35.5,61.5,97.0,5,2018
+56737596115760,Lang Ranch,Conejo Valley Unified,Ventura,,38.7,58.3,97.0,5,2018
+07617546004360,Walnut Acres Elementary,Mt. Diablo Unified,Contra Costa,,38.3,58.5,96.8,5,2018
+07618046005136,Rancho Romero Elementary,San Ramon Valley Unified,Contra Costa,,50.1,46.7,96.8,5,2018
+21653676024376,Neil Cummins Elementary,Larkspur-Corte Madera,Marin,,39.7,57.1,96.8,5,2018
+30664646117634,Don Juan Avila Elementary,Capistrano Unified,Orange,,39.4,57.1,96.5,5,2018
+37682966106520,Canyon View Elementary,Poway Unified,San Diego,,41.5,54.9,96.4,5,2018
+33670336031835,Lincoln Alternative Elementary,Corona-Norco Unified,Riverside,,42.7,53.6,96.3,5,2018
+36677026107569,Caryn Elementary,Etiwanda Elementary,San Bernardino,,37.8,58.5,96.3,5,2018
+37683386099089,Vista Grande Elementary,San Diego Unified,San Diego,,49.1,46.9,96.0,5,2018
+19650601939602,West High,Torrance Unified,Los Angeles,,25.6,70.2,95.8,5,2018
+37682966109318,Morning Creek Elementary,Poway Unified,San Diego,,45.8,49.9,95.7,5,2018
+30736436118772,Myford Elementary,Tustin Unified,Orange,,43.9,51.7,95.6,5,2018
+19647336019525,Topanga Elementary Charter,Los Angeles Unified,Los Angeles,Y,41.9,53.5,95.4,5,2018
+21653676024350,Hall Middle,Larkspur-Corte Madera,Marin,,38.4,57.0,95.4,5,2018
+56725536120117,La Mariposa,Pleasant Valley,Ventura,,41.6,53.7,95.3,5,2018
+19646836014815,White Oak Elementary,Las Virgenes Unified,Los Angeles,,39.3,55.6,94.9,5,2018
+10621170113563,Bud Rank Elementary,Clovis Unified,Fresno,,37.0,57.6,94.6,5,2018
+41690216044739,Brittan Acres Elementary,San Carlos Elementary,San Mateo,Y,46.6,47.8,94.4,5,2018
+19734526022222,Blandford Elementary,Rowland Unified,Los Angeles,,44.9,49.4,94.3,5,2018
+19650606023089,Bert M. Lynn Middle,Torrance Unified,Los Angeles,,44.7,49.5,94.2,5,2018
+10621176113575,Cedarwood Elementary,Clovis Unified,Fresno,,38.5,55.6,94.1,5,2018
+01611436090252,Jefferson Elementary,Berkeley Unified,Alameda,,45.3,48.7,94.0,5,2018
+10621176110258,Garfield Elementary,Clovis Unified,Fresno,,45.4,48.6,94.0,5,2018
+19651106023634,Daniel Phelan Elementary,Whittier City Elementary,Los Angeles,,44.9,49.0,93.9,5,2018
+19647330125096,Academy for Enriched Sciences,Los Angeles Unified,Los Angeles,,40.7,53.0,93.7,5,2018
+19757136011076,Monterey Highlands Elementary,Alhambra Unified,Los Angeles,,39.9,53.8,93.7,5,2018
+37683386039978,McKinley Elementary,San Diego Unified,San Diego,,39.4,54.3,93.7,5,2018
+43696906049258,Sunnyvale Middle,Sunnyvale,Santa Clara,,50.0,43.7,93.7,5,2018
+30666476030951,Rose Drive Elementary,Placentia-Yorba Linda Unified,Orange,,43.2,50.3,93.5,5,2018
+36679186101927,Sixth Street Prep,Victor Elementary,San Bernardino,Y,40.2,53.3,93.5,5,2018
+19734456014294,Mesa Robles,Hacienda la Puente Unified,Los Angeles,,42.4,50.7,93.1,5,2018
+01612596001754,Crocker Highlands Elementary,Oakland Unified,Alameda,,37.7,55.1,92.8,5,2018
+31750856116057,Granite Oaks Middle,Rocklin Unified,Placer,,42.7,49.9,92.6,5,2018
+37683386112460,Kumeyaay Elementary,San Diego Unified,San Diego,,44.4,48.0,92.4,5,2018
+19647336016745,Delevan Drive Elementary,Los Angeles Unified,Los Angeles,,43.1,49.2,92.3,5,2018
+30666476030092,Sierra Vista Elementary,Placentia-Yorba Linda Unified,Orange,,39.3,53.0,92.3,5,2018
+19645356116248,Richmond Street Elementary,El Segundo Unified,Los Angeles,,37.2,54.7,91.9,5,2018
+43104390128090,Summit Public School: Denali,Santa Clara County Office of Education,Santa Clara,Y,38.0,53.9,91.9,5,2018
+01612006097661,Sunset Elementary,Livermore Valley Joint Unified,Alameda,,37.6,54.2,91.8,5,2018
+30664806027833,Frank Vessels Elementary,Cypress Elementary,Orange,,42.0,49.8,91.8,5,2018
+30665226028450,Hilton D. Bell Intermediate,Garden Grove Unified,Orange,,36.4,55.4,91.8,5,2018
+36676786112833,Hidden Trails Elementary,Chino Valley Unified,San Bernardino,,36.1,55.4,91.5,5,2018
+37768510110122,Bonsall West Elementary,Bonsall Unified,San Diego,,36.6,54.9,91.5,5,2018
+30666136029607,Hope View Elementary,Ocean View,Orange,,37.6,53.7,91.3,5,2018
+30664646113344,Oak Grove Elementary,Capistrano Unified,Orange,,40.4,50.7,91.1,5,2018
+30665976029334,Harbor View Elementary,Newport-Mesa Unified,Orange,,35.3,55.8,91.1,5,2018
+07616300734244,Miramonte High,Acalanes Union High,Contra Costa,,35.4,55.5,90.9,5,2018
+37680076037758,Ada W. Harris Elementary,Cardiff Elementary,San Diego,,40.9,50.0,90.9,5,2018
+19650526022966,Oak Avenue Intermediate,Temple City Unified,Los Angeles,,46.2,44.6,90.8,5,2018
+07618126005177,Indian Valley Elementary,Walnut Creek Elementary,Contra Costa,,35.3,55.4,90.7,5,2018
+09619786005714,Rescue Elementary,Rescue Union Elementary,El Dorado,,39.8,50.8,90.6,5,2018
+30666470109678,Lakeview Elementary,Placentia-Yorba Linda Unified,Orange,,41.0,49.5,90.5,5,2018
+41690396044812,Audubon Elementary,San Mateo-Foster City,San Mateo,,47.3,43.2,90.5,5,2018
+57726786060396,Oliver Wendell Holmes Junior High,Davis Joint Unified,Yolo,,49.1,41.3,90.4,5,2018
+07618046005151,Vista Grande Elementary,San Ramon Valley Unified,Contra Costa,,41.6,48.7,90.3,5,2018
+30739246029060,Los Alamitos Elementary,Los Alamitos Unified,Orange,,48.4,41.9,90.3,5,2018
+30665226028781,Sunnyside Elementary,Garden Grove Unified,Orange,,37.6,52.6,90.2,5,2018
+37682966093231,Sunset Hills Elementary,Poway Unified,San Diego,,37.5,52.5,90.0,5,2018
+19650526022933,Emperor Elementary,Temple City Unified,Los Angeles,,43.0,46.8,89.8,5,2018
+07617966004840,Madera Elementary,West Contra Costa Unified,Contra Costa,,39.2,50.5,89.7,5,2018
+27661346058754,Pacific Grove Middle,Pacific Grove Unified,Monterey,,35.9,53.7,89.6,5,2018
+36675956114649,Banyan Elementary,Alta Loma Elementary,San Bernardino,,35.3,54.3,89.6,5,2018
+37683386096879,Dailard Elementary,San Diego Unified,San Diego,,46.1,43.5,89.6,5,2018
+19647256015366,Henry,Long Beach Unified,Los Angeles,,41.7,47.7,89.4,5,2018
+44697576049571,Happy Valley Elementary,Happy Valley Elementary,Santa Cruz,,35.6,53.8,89.4,5,2018
+01611276090161,Albany Middle,Albany City Unified,Alameda,,36.4,52.9,89.3,5,2018
+07618046066591,Neil A. Armstrong Elementary,San Ramon Valley Unified,Contra Costa,,46.8,42.5,89.3,5,2018
+44697650100388,Tierra Pacifica Charter,Live Oak Elementary,Santa Cruz,Y,53.7,35.6,89.3,5,2018
+33751926110084,Red Hawk Elementary,Temecula Valley Unified,Riverside,,35.0,54.1,89.1,5,2018
+42691956045488,Kellogg Elementary,Goleta Union Elementary,Santa Barbara,,38.6,50.3,88.9,5,2018
+01611766090559,Steven Millard Elementary,Fremont Unified,Alameda,,40.5,48.2,88.7,5,2018
+30664646095087,Moulton Elementary,Capistrano Unified,Orange,,40.2,48.1,88.3,5,2018
+19650521938679,Temple City High,Temple City Unified,Los Angeles,,30.0,58.2,88.2,5,2018
+30666476030027,Glenknoll Elementary,Placentia-Yorba Linda Unified,Orange,,35.7,52.4,88.1,5,2018
+19645686061303,Rosemont Middle,Glendale Unified,Los Angeles,,42.4,45.6,88.0,5,2018
+41690396044838,Baywood Elementary,San Mateo-Foster City,San Mateo,,36.5,51.5,88.0,5,2018
+01611506090393,Independent Elementary,Castro Valley Unified,Alameda,,41.8,45.9,87.7,5,2018
+42767866045934,Washington Elementary,Santa Barbara Unified,Santa Barbara,,37.6,50.1,87.7,5,2018
+30667466030720,Schroeder Elementary,Westminster,Orange,,35.9,51.6,87.5,5,2018
+01611436056857,Martin Luther King Middle,Berkeley Unified,Alameda,,35.2,52.1,87.3,5,2018
+39685690132415,John McCandless Charter,Lincoln Unified,San Joaquin,Y,41.8,45.4,87.2,5,2018
+30664986066922,Cox (James H.) Elementary,Fountain Valley Elementary,Orange,,43.6,43.4,87.0,5,2018
+57726786066245,Ralph Waldo Emerson Junior High,Davis Joint Unified,Yolo,,41.6,45.1,86.7,5,2018
+19650606023196,Edward J. Richardson Middle,Torrance Unified,Los Angeles,,40.7,45.8,86.5,5,2018
+30736436116305,Pioneer Middle,Tustin Unified,Orange,,35.2,51.1,86.3,5,2018
+01611196090013,Edison Elementary,Alameda Unified,Alameda,,37.8,48.4,86.2,5,2018
+19648816021570,Field (Eugene) Elementary,Pasadena Unified,Los Angeles,,35.2,51.0,86.2,5,2018
+19650606023105,Hickory Elementary,Torrance Unified,Los Angeles,,44.6,41.6,86.2,5,2018
+30664646111397,Aliso Viejo Middle,Capistrano Unified,Orange,,38.1,48.1,86.2,5,2018
+19647330112060,Hesby Oaks Leadership Charter,Los Angeles Unified,Los Angeles,Y,35.8,50.3,86.1,5,2018
+43693936046668,Rolling Hills Middle,Campbell Union,Santa Clara,Y,37.0,49.1,86.1,5,2018
+43693930106005,Village,Campbell Union,Santa Clara,Y,36.0,50.0,86.0,5,2018
+07617546004253,Sequoia Elementary,Mt. Diablo Unified,Contra Costa,,39.0,46.9,85.9,5,2018
+16639176010391,Jefferson Charter Academy,Hanford Elementary,Kings,Y,36.1,49.5,85.6,5,2018
+19642126010904,Carver (Charles J.) Elementary,ABC Unified,Los Angeles,,36.0,49.5,85.5,5,2018
+19649806022545,Edison Elementary,Santa Monica-Malibu Unified,Los Angeles,,35.2,50.3,85.5,5,2018
+19753416022156,Washington Elementary,Redondo Beach Unified,Los Angeles,,37.3,47.7,85.0,5,2018
+37682966097216,Chaparral Elementary,Poway Unified,San Diego,,38.7,46.1,84.8,5,2018
+56726036055818,Vista Elementary,Simi Valley Unified,Ventura,,36.3,48.5,84.8,5,2018
+01611196090005,Donald D. Lum Elementary,Alameda Unified,Alameda,,37.1,47.6,84.7,5,2018
+31668456031124,Franklin Elementary,Loomis Union Elementary,Placer,,35.3,49.3,84.6,5,2018
+01750936001374,Dublin Elementary,Dublin Unified,Alameda,,41.9,42.6,84.5,5,2018
+37682966093223,Black Mountain Middle,Poway Unified,San Diego,,36.2,48.3,84.5,5,2018
+36750440118059,LaVerne Elementary Preparatory Academy,Hesperia Unified,San Bernardino,Y,40.7,43.7,84.4,5,2018
+07618046005086,Country Club Elementary,San Ramon Valley Unified,Contra Costa,,37.3,47.0,84.3,5,2018
+01611276116222,Ocean View Elementary,Albany City Unified,Alameda,,37.9,46.3,84.2,5,2018
+14633056008809,Round Valley Elementary,Round Valley Joint Elementary,Inyo,,40.6,43.6,84.2,5,2018
+01612426118525,Delaine Eastin Elementary,New Haven Unified,Alameda,,39.0,44.8,83.8,5,2018
+19647256015556,Newcomb Academy,Long Beach Unified,Los Angeles,,36.9,46.3,83.2,5,2018
+21654586024780,Glenwood Elementary,San Rafael City Elementary,Marin,,36.0,47.1,83.1,5,2018
+43695916047989,Isaac Newton Graham Middle,Mountain View Whisman,Santa Clara,,42.8,40.0,82.8,5,2018
+19647330100867,KIPP Los Angeles College Preparatory,Los Angeles Unified,Los Angeles,Y,41.3,41.4,82.7,5,2018
+43695756047799,George C. Payne Elementary,Moreland,Santa Clara,,37.1,45.5,82.6,5,2018
+36679590114256,Inland Leaders Charter,Yucaipa-Calimesa Joint Unified,San Bernardino,Y,39.7,42.7,82.4,5,2018
+19757136011001,Brightwood Elementary,Alhambra Unified,Los Angeles,,38.0,44.3,82.3,5,2018
+30664496068571,William E. Fanning Elementary,Brea-Olinda Unified,Orange,,35.5,46.8,82.3,5,2018
+44754326049936,Brook Knoll Elementary,Scotts Valley Unified,Santa Cruz,,38.9,43.1,82.0,5,2018
+38684786041578,Sherman Elementary,San Francisco Unified,San Francisco,,37.8,43.9,81.7,5,2018
+19647336019277,Solano Avenue Elementary,Los Angeles Unified,Los Angeles,,35.6,45.5,81.1,5,2018
+37680806038152,Ocean Knoll Elementary,Encinitas Union Elementary,San Diego,,36.7,44.3,81.0,5,2018
+38684783830387,"Asawa (Ruth) SF Sch of the Arts, A Public School",San Francisco Unified,San Francisco,,34.2,46.8,81.0,5,2018
+36676780100578,Edwin Rhodes Elementary,Chino Valley Unified,San Bernardino,,37.5,43.4,80.9,5,2018
+36739576112924,Heritage,Snowline Joint Unified,San Bernardino,,36.3,44.0,80.3,5,2018
+43694500121483,Alpha: Cornerstone Academy Preparatory,Franklin-McKinley Elementary,Santa Clara,Y,38.4,41.7,80.1,5,2018
+19650606022990,Arlington Elementary,Torrance Unified,Los Angeles,,45.5,34.4,79.9,5,2018
+30736506111876,South Lake Middle,Irvine Unified,Orange,,40.6,39.1,79.7,5,2018
+41689736044200,Green Hills Elementary,Millbrae Elementary,San Mateo,,38.4,40.5,78.9,5,2018
+31750850114371,Rocklin Academy at Meyers Street,Rocklin Unified,Placer,Y,39.4,39.4,78.8,5,2018
+43694500128108,Rocketship Spark Academy,Franklin-McKinley Elementary,Santa Clara,Y,50.4,28.4,78.8,5,2018
+01611506090484,Vannoy Elementary,Castro Valley Unified,Alameda,,35.5,43.2,78.7,5,2018
+19647256015648,Tincher Preparatory,Long Beach Unified,Los Angeles,,37.7,41.0,78.7,5,2018
+30665973031697,Corona del Mar High,Newport-Mesa Unified,Orange,,27.8,50.9,78.7,5,2018
+44754326049944,Scotts Valley Middle,Scotts Valley Unified,Santa Cruz,,37.5,41.1,78.6,5,2018
+53716966053722,Douglas City Elementary,Douglas City Elementary,Trinity,,44.1,34.5,78.6,5,2018
+41689326044051,Vallemar Elementary,Pacifica,San Mateo,,40.4,38.0,78.4,5,2018
+21750020124578,Hidden Valley Elementary,Ross Valley Elementary,Marin,,41.9,36.2,78.1,5,2018
+31750856031215,Rocklin Elementary,Rocklin Unified,Placer,,35.2,42.9,78.1,5,2018
+19642611930288,Arcadia High,Arcadia Unified,Los Angeles,,38.9,39.1,78.0,5,2018
+50710846052534,Gratton Elementary,Gratton Elementary,Stanislaus,,50.0,28.0,78.0,5,2018
+19734606023352,Castle Rock Elementary,Walnut Valley Unified,Los Angeles,,41.3,36.6,77.9,5,2018
+31669100102806,Blue Oaks Elementary,Roseville City Elementary,Placer,,35.7,42.1,77.8,5,2018
+01612590114363,American Indian Public Charter II,Oakland Unified,Alameda,Y,46.7,31.0,77.7,5,2018
+07618126005235,Walnut Creek Intermediate,Walnut Creek Elementary,Contra Costa,,35.1,42.6,77.7,5,2018
+37683386039903,Loma Portal Elementary,San Diego Unified,San Diego,,36.3,41.3,77.6,5,2018
+43693776093033,Sierramont Middle,Berryessa Union Elementary,Santa Clara,,35.3,42.1,77.4,5,2018
+43695006047369,Loma Prieta Elementary,Loma Prieta Joint Union Elementary,Santa Clara,,37.4,39.8,77.2,5,2018
+30736436118764,Ladera Elementary,Tustin Unified,Orange,,39.6,37.4,77.0,5,2018
+30736500135137,Eastwood Elementary,Irvine Unified,Orange,,38.0,39.0,77.0,5,2018
+01612006001259,Emma C. Smith Elementary,Livermore Valley Joint Unified,Alameda,,38.0,38.7,76.7,5,2018
+41688826043574,McKinley Elementary,Burlingame Elementary,San Mateo,,40.7,35.4,76.1,5,2018
+31668520127902,Squaw Valley Preparatory,Newcastle Elementary,Placer,Y,25.8,50.0,75.8,5,2018
+37683386039713,Hardy Elementary,San Diego Unified,San Diego,,37.0,38.0,75.0,5,2018
+19650606023220,Riviera Elementary,Torrance Unified,Los Angeles,,37.1,36.6,73.7,5,2018
+07618126005193,Parkmead Elementary,Walnut Creek Elementary,Contra Costa,,36.2,37.2,73.4,5,2018
+19650606023287,Victor Elementary,Torrance Unified,Los Angeles,,39.2,33.8,73.0,5,2018
+01612596113807,American Indian Public Charter,Oakland Unified,Alameda,Y,55.5,17.4,72.9,5,2018
+43696416048250,Escondido Elementary,Palo Alto Unified,Santa Clara,,35.2,37.7,72.9,5,2018
+38684786040695,Alamo Elementary,San Francisco Unified,San Francisco,,39.2,33.0,72.2,5,2018
+30666476030936,Mabel M. Paine Elementary,Placentia-Yorba Linda Unified,Orange,,37.6,34.4,72.0,5,2018
+07618046089130,Twin Creeks Elementary,San Ramon Valley Unified,Contra Costa,,35.8,35.2,71.0,5,2018
+19650606023006,Joseph Arnold Elementary,Torrance Unified,Los Angeles,,40.7,29.5,70.2,5,2018
+38684786041131,Yick Wo Elementary,San Francisco Unified,San Francisco,,35.5,34.2,69.7,5,2018
+38684786041271,Ortega (Jose) Elementary,San Francisco Unified,San Francisco,,39.1,30.6,69.7,5,2018
+43694500123299,Rocketship Mosaic Elementary,Franklin-McKinley Elementary,Santa Clara,Y,41.4,27.8,69.2,5,2018
+43694196046965,Manuel De Vargas Elementary,Cupertino Union,Santa Clara,,36.0,32.7,68.7,5,2018
+37682966109326,Turtleback Elementary,Poway Unified,San Diego,,35.3,33.3,68.6,5,2018
+07618046071039,Walt Disney Elementary,San Ramon Valley Unified,Contra Costa,,35.6,32.3,67.9,5,2018
+38684786041230,Jefferson Elementary,San Francisco Unified,San Francisco,,35.2,31.4,66.6,5,2018
+40688096110621,Monarch Grove Elementary,San Luis Coastal Unified,San Luis Obispo,,37.5,29.1,66.6,5,2018
+19647330127670,KIPP Iluminar Academy,Los Angeles Unified,Los Angeles,Y,36.9,29.4,66.3,5,2018
+19650526022941,La Rosa Elementary,Temple City Unified,Los Angeles,,40.3,22.6,62.9,5,2018
+43696740133363,Central Park Elementary,Santa Clara Unified,Santa Clara,,44.8,17.4,62.2,5,2018
+19650526022925,Cloverly Elementary,Temple City Unified,Los Angeles,,35.3,25.2,60.5,5,2018
+45699894533600,Fall River Junior-Senior High,Fall River Joint Unified,Shasta,,25.6,34.1,59.7,5,2018
+43693690106633,KIPP Heartwood Academy,Alum Rock Union Elementary,Santa Clara,Y,38.3,18.1,56.4,5,2018
