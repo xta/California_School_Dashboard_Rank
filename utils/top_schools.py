@@ -44,150 +44,167 @@ Public Schools
     38  Longitude
 '''
 
-header_out = [
-    'cds',
-    'schoolname',
-    'districtname',
-    'countyname',
+report_columns = [
+    'cds',              # id
+    'school_name',
+    'district_name',
+    'county_name',
     'charter_flag',
     'math_status',
     'english_status',
     'combined_status',
-    'status_level', # only use math for now
-    'ReportingYear',
-    'StatusType',
-    'Street',
-    'City',
-    'Zip',
-    'State',
-    'Phone',
-    'WebSite',
-    'SOC',
-    'SOCType',
-    'EdOpsName',
-    'EILCode',
-    'EILName',
-    'Magnet',
-    'Latitude',
-    'Longitude'
+    'status_level',     # only use math for now
+    'reporting_year',
+    'status_type',
+    'street',
+    'city',
+    'zip',
+    'state',
+    'phone',
+    'web_site',
+    'soc',
+    'soc_type',
+    'ed_ops_name',
+    'eil_code',
+    'eil_name',
+    'magnet',
+    'latitude',
+    'longitude'
     ]
 
-math_file   = sys.argv[1]
-engl_file   = sys.argv[2]
-school_file = sys.argv[3]
+class School(object):
+    __slots__ = report_columns
 
-schools = {}
+    def __init__(self, cds, school_name, district_name,
+        county_name, charter_flag, math_status, status_level, reporting_year):
+        self.cds            = cds
+        self.school_name    = school_name
+        self.district_name  = district_name
+        self.county_name    = county_name
+        self.charter_flag   = charter_flag
+        self.math_status    = float(math_status)
+        self.status_level   = status_level
+        self.reporting_year = reporting_year
 
-## math
+        self.status_type    = None
+        self.street         = None
+        self.city           = None
+        self.zip            = None
+        self.state          = None
+        self.phone          = None
+        self.web_site       = None
+        self.soc            = None
+        self.soc_type       = None
+        self.ed_ops_name    = None
+        self.eil_code       = None
+        self.eil_name       = None
+        self.magnet         = None
+        self.latitude       = None
+        self.longitude      = None
 
-with open(math_file) as math:
-    csv_reader = csv.reader(math)
-    next(csv_reader)
+    def update_english_and_combined(self, english_status):
+        self.english_status = float(english_status)
 
-    for math_row in csv_reader:
-        school_id       = math_row[0]
-        status_level    = math_row[8]
-        math_status     = math_row[7]
+        combined = self.math_status + self.english_status
+        self.combined_status = float("%.2f" % combined)
 
-        # TODO: refactor `school_data` to use object instead of list
-        if status_level != 0 and math_status is not '':
-            school_data = [
-                math_row[0],        # 'cds',
-                math_row[2],        # 'schoolname',
-                math_row[3],        # 'districtname',
-                math_row[4],        # 'countyname',
-                math_row[5],        # 'charter_flag',
-                float(math_status), # 'math_status',
-                0,                  # 'english_status', - placeholder
-                0,                  # 'combined_status', - placeholder
-                status_level,       # 'status_level',
-                math_row[9],        # 'ReportingYear'
-                '',                 # 'StatusType', - placeholder
-                '',                 # 'Street', - placeholder
-                '',                 # 'City', - placeholder
-                '',                 # 'Zip', - placeholder
-                '',                 # 'State', - placeholder
-                '',                 # 'Phone', - placeholder
-                '',                 # 'WebSite', - placeholder
-                '',                 # 'SOC', - placeholder
-                '',                 # 'SOCType', - placeholder
-                '',                 # 'EdOpsName', - placeholder
-                '',                 # 'EILCode', - placeholder
-                '',                 # 'EILName', - placeholder
-                '',                 # 'Magnet', - placeholder
-                '',                 # 'Latitude', - placeholder
-                ''                  # 'Longitude' - placeholder
-            ]
-            schools[school_id] = school_data
+    def export_row(self):
+        row = []
+        for column in report_columns:
+            row.append(getattr(self, column))
+        return row
 
-## english
+if __name__ == '__main__':
 
-with open(engl_file) as english:
-    csv_reader = csv.reader(english)
-    next(csv_reader)
+    ## state
 
-    for english_row in csv_reader:
-        school_id       = english_row[0]
-        status_level    = english_row[8]
-        english_status  = english_row[7]
+    math_file   = sys.argv[1]
+    engl_file   = sys.argv[2]
+    school_file = sys.argv[3]
 
-        if status_level != 0 and english_status is not '':
+    schools = {}
+
+    ## math
+
+    with open(math_file) as math:
+        csv_reader = csv.reader(math)
+        next(csv_reader)
+
+        for math_row in csv_reader:
+            school_id       = math_row[0]
+            status_level    = math_row[8]
+            math_status     = math_row[7]
+
+            if status_level != 0 and math_status is not '':
+                school_data = School(school_id,
+                                math_row[2],        # school_name
+                                math_row[3],        # district_name
+                                math_row[4],        # county_name
+                                math_row[5],        # charter_flag
+                                float(math_status),
+                                status_level,
+                                math_row[9]         # reporting_year
+                    )
+                schools[school_id] = school_data
+
+    ## english
+
+    with open(engl_file) as english:
+        csv_reader = csv.reader(english)
+        next(csv_reader)
+
+        for english_row in csv_reader:
+            school_id       = english_row[0]
+            status_level    = english_row[8]
+            english_status  = english_row[7]
+
+            if status_level != 0 and english_status is not '':
+                if school_id in schools:
+                    schools[school_id].update_english_and_combined(english_status)
+
+    ## school info
+
+    with open(school_file) as school:
+        csv_reader = csv.reader(school)
+        next(csv_reader)
+
+        for school_row in csv_reader:
+            school_id = school_row[0]
+
             if school_id in schools:
-                english_status          = float(english_row[7])
-                math_status             = float(schools[school_id][5])
-                combined_status         = math_status + english_status
-                rounded_combined        = float("%.2f" % combined_status)
+                schools[school_id].status_type  = school_row[3]
+                schools[school_id].street       = school_row[7]
+                schools[school_id].city         = school_row[9]
+                schools[school_id].zip          = school_row[10]
+                schools[school_id].state        = school_row[11]
+                schools[school_id].phone        = school_row[17]
+                schools[school_id].web_site     = school_row[19]
+                schools[school_id].soc          = school_row[27]
+                schools[school_id].soc_type     = school_row[28]
+                schools[school_id].ed_ops_name  = school_row[30]
+                schools[school_id].eil_code     = school_row[31]
+                schools[school_id].eil_name     = school_row[32]
+                schools[school_id].magnet       = school_row[36]
+                schools[school_id].latitude     = school_row[37]
+                schools[school_id].longitude    = school_row[38]
 
-                schools[school_id][6]   = english_status
-                schools[school_id][7]   = rounded_combined
+    ## filter (only 5s)
+    top_schools = {k: v for k, v in schools.items() if v.status_level == '5'}
 
-## school info
+    ## filter (only active)
+    active_schools = {k: v for k, v in top_schools.items() if v.status_type == 'Active'}
 
+    ## sort in descending order by combined_status
+    sorted_schools = sorted(active_schools.items(), key=lambda x: x[1].combined_status, reverse=True)
 
-with open(school_file) as school:
-    csv_reader = csv.reader(school)
-    next(csv_reader)
+    ## output
 
-    for school_row in csv_reader:
-        school_id = school_row[0]
+    csv_writer = csv.writer(sys.stdout)
 
-        if school_id in schools:
+    # header row
+    csv_writer.writerow(report_columns)
 
-            # note: mixing underscore and Caps is not ideal
-            schools[school_id][10] = school_row[3]    # school_StatusType
-            schools[school_id][11] = school_row[7]    # school_Street
-            schools[school_id][12] = school_row[9]    # school_City
-            schools[school_id][13] = school_row[10]   # school_Zip
-            schools[school_id][14] = school_row[11]   # school_State
-            schools[school_id][15] = school_row[17]   # school_Phone
-            schools[school_id][16] = school_row[19]   # school_WebSite
-            schools[school_id][17] = school_row[27]   # school_SOC
-            schools[school_id][18] = school_row[28]   # school_SOCType
-            schools[school_id][19] = school_row[30]   # school_EdOpsName
-            schools[school_id][20] = school_row[31]   # school_EILCode
-            schools[school_id][21] = school_row[32]   # school_EILName
-            schools[school_id][22] = school_row[36]   # school_Magnet
-            schools[school_id][23] = school_row[37]   # school_Latitude
-            schools[school_id][24] = school_row[38]   # school_Longitude
-
-## filter (only 5s)
-
-top_schools = {k: v for k, v in schools.items() if v[8] == '5'}
-
-## filter (only active)
-
-active_schools = {k: v for k, v in top_schools.items() if v[10] == 'Active'}
-
-## sort in descending order by combined_status
-
-sorted_schools = sorted(active_schools.items(), key=lambda x: x[1][7], reverse=True)
-
-## output
-
-csv_writer = csv.writer(sys.stdout)
-
-csv_writer.writerow(header_out)
-
-for school in sorted_schools:
-    data = school[1]
-    csv_writer.writerow(data)
+    # data rows
+    for school_tuple in sorted_schools:
+        school = school_tuple[1]
+        csv_writer.writerow(school.export_row())
