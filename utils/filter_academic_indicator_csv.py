@@ -8,7 +8,7 @@ Purpose
     Filter a CSV in known schema (Academic Indicator) by arbitrary criteria
 
 Usage
-    cat file_in.csv | python3 filter_csv.py > file_out.csv
+    cat file_in.csv | python3 filter_academic_indicator_csv.py > file_out.csv
 
 '''
 
