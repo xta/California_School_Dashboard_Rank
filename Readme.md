@@ -17,3 +17,5 @@ Analysis of [CA School Dashboard](https://www.caschooldashboard.org/) [data](htt
     ## Note: Excel date format issue
 
     python3 utils/top_schools.py data/math_2018_academic_indicator.csv data/english_2018_academic_indicator.csv data/public_schools.csv > data/top_schools_2018_by_math_and_english.csv
+
+    python3 utils/csv_to_json.py data/top_schools_2018_by_math_and_english.csv data/top_schools_2018_by_math_and_english.json schools
